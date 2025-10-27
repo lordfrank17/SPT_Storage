@@ -12,3 +12,5 @@ collection,Source Collection,A related resource from which the described resourc
 identifier,Source Identifier,An unambiguous reference to the resource within a given context. (OCA) ,dcterms:identifier,"The identifier of object in its original context, as it is labeled in the source collection.",PG3 108a,no,Item
 type,Type,The nature or genre of the resource. (OCA) ,dcterm:type,"The general genre of object, using the DCMI type vocabulary.",Image;StillImage,yes,Item
 format,Format,The digital file format of the resource. (OCA) ,dc:format,"Use for the digital format of the resource, form as an Internet Media Type (IMT) term. For multiple formats, separate values with a semicolon.",image/jpeg; application/pdf,no,Item
+listedsize,Listed Size,Size designated by item's tag
+notes,Notes,notes
