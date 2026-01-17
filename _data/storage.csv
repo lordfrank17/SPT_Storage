@@ -1,0 +1,585 @@
+objectid,object_location,filename,title,brand,creator,date,description,subject,listed size,shoulder to hem,shoulder width,bust width,waist width,waist to hem,inseam,notes,format,type,language
+SPT_CIO_002,objects/SPT_CIO_002.JPG,SPT_CIO_002.JPG,tie,merona,Katie June,10/25/25,pink tie with navy stripes,pink; tie,,,,,,,,59 in,image/jpeg,Image;StillImage,eng
+SPT_CIO_003,objects/SPT_CIO_003.JPG,SPT_CIO_003.JPG,tie,laurant bennet,Katie June,10/25/25,red and blue stripe tie,red;blue; tie,,,,,,,,60 in,image/jpeg,Image;StillImage,eng
+SPT_CIO_004,objects/SPT_CIO_004.JPG,SPT_CIO_004.JPG,tie,henry grethel,Katie June,10/25/25,blue and gold tie with a triangle pattern,gold; blue; tie,,,,,,,,56.5 in,image/jpeg,Image;StillImage,eng
+SPT_CIO_005,objects/SPT_CIO_005.JPG,SPT_CIO_005.JPG,tie,john henry,Katie June,10/25/25,"blue, gold, white, red patterned tie",blue; tie,,,,,,,,59 in,image/jpeg,Image;StillImage,eng
+SPT_CIO_006,objects/SPT_CIO_006.JPG,SPT_CIO_006.JPG,tie,vesuvio napoli,Katie June,10/25/25,green striped time,green; tie,,,,,,,,62 in,image/jpeg,Image;StillImage,eng
+SPT_CIO_007,objects/SPT_CIO_007.JPG,SPT_CIO_007.JPG,tie,noel,Katie June,10/25/25,santa red tie,santa; christmas,,,,,,,,58 in,image/jpeg,Image;StillImage,eng
+SPT_CIO_008,objects/SPT_CIO_008.JPG,SPT_CIO_008.JPG,tie,tommy hilfiger,katie june,10/25/25,"tile esque patterned yellow, blue, and red tie",red; blue; tie,,,,,,,,60 in,image/jpeg,Image;StillImage,eng
+SPT_CIO_009,objects/SPT_CIO_009.JPG,SPT_CIO_009.JPG,tie,,Katie June,10/25/25,red and purple tie,red; purple tie,,,,,,,,59 in,image/jpeg,Image;StillImage,eng
+SPT_CIO_010,objects/SPT_CIO_010.JPG,SPT_CIO_010.JPG,tie,j. garcia,katie june,10/25/25,blue and red tie with arrrows,red; tie,,,,,,,,59 in,image/jpeg,Image;StillImage,eng
+SPT_CIO_011,objects/SPT_CIO_011.JPG,SPT_CIO_011.JPG,tie,harborough,katie june,10/25/25,navy tie with red circles,blue; tie,,,,,,,,59 in,image/jpeg,Image;StillImage,eng
+SPT_CIO_012,objects/SPT_CIO_012.JPG,SPT_CIO_012.JPG,Corset,Corset story,Madeline Nobert,10/25/25,Blue and gold sweetheart corset,Blue; gold; corset,24,,,27 smallest,22 smallest,,,15 in center front,image/jpeg,Image;StillImage,eng
+SPT_CIO_013,objects/SPT_CIO_013.JPG,SPT_CIO_013.JPG,tie,ziggurat,katie june,10/25/25,red/brown circle tie,red; brown; tie,,,,,,,,61 in,image/jpeg,Image;StillImage,eng
+SPT_CIO_014,objects/SPT_CIO_014.JPG,SPT_CIO_014.JPG,tie,jos a bank,katie june,10/25/25,purple paisley tie,purple; paisley; tie,,,,,,,,59 in,image/jpeg,Image;StillImage,eng
+SPT_CIO_015,objects/SPT_CIO_015.JPG,SPT_CIO_015.JPG,cape,,katie june,10/25/25,gold glitter cape,gold; glitter; cape,,,,,,,,80+ in,image/jpeg,Image;StillImage,eng
+SPT_CIO_016,objects/SPT_CIO_016.JPG,SPT_CIO_016.JPG,Net,,Katie June,10/25/25,Beige net ,Beige; tan,,,,,,,,41 by 132,image/jpeg,Image;StillImage,eng
+SPT_CIO_017,objects/SPT_CIO_017.JPG,SPT_CIO_017.JPG,Overalls,Dickies,Katie June,10/25/25,Denim overalls,Blue; denim,,53,,,36,41,30,,image/jpeg,Image;StillImage,eng
+SPT_CI_07_001,objects/SPT_CI_07_001.jpg,SPT_CI_07_001.jpg,handkerchief ,,Claire,10/25/2025,white handkerchief ,white; linen; handkerchief ,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_07_002,objects/SPT_CI_07_001.jpg,SPT_CI_07_002.jpg,socks ,berkshire ,Claire,10/25/2025,nude tights ,nude; tights ,1x/2x,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_07_003,objects/SPT_CI_07_003.jpg,SPT_CI_07_003.jpg,socks ,capeziox,Claire,10/25/2025,nude tights ,nude; tights: small ,A,,,,,,,has intentional holes in the feet,image/jpeg,Image;StillImage,eng
+SPT_CI_07_004,objects/SPT_CI_07_004.jpg,SPT_CI_07_004.jpg,socks ,leggs ,Claire,10/25/2025,sheer nude tights,"tight; nude; sheer, small",small 4'10 - 5'7,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_07_005,objects/SPT_CI_07_005.jpg,SPT_CI_07_005.jpg,socks ,,Claire,10/25/2025,sparkly silver tights ,silver; glitter; sparkle; tights ,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_07_006,objects/SPT_CI_07_006.jpg,SPT_CI_07_006.jpg,handkerchief ,,Claire,10/25/2025,light beige handkerchief with brown and yellow trim,handkerchief; trim; beige; yellow; brown,,,,,,,,slight staining ,image/jpeg,Image;StillImage,eng
+SPT_CI_07_007,objects/SPT_CI_07_007.jpg,SPT_CI_07_007.jpg,handkerchief ,,Claire,10/25/2025,plain white handkerchief ,handkerchief; white; plain; solid ,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_07_009,objects/SPT_CI_07_009.jpg,SPT_CI_07_009.jpg,socks ,berkshire ,Claire,10/25/2025,sheer nude tights ,sheer; nude; tights ,1x/2x 5'4-5'10,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_07_010,objects/SPT_CI_07_010.jpg,SPT_CI_07_010.jpg,handkerchief ,,Claire,10/25/2025,white handkerchief,white; linen; handkerchief ,,,,,,,,small hole ,image/jpeg,Image;StillImage,eng
+SPT_CI_07_011,objects/SPT_CI_07_011.jpg,SPT_CI_07_011.jpg,handkerchief ,,Claire,10/25/2025,purple pocket square,purple; pocket square,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_07_012,objects/SPT_CI_07_012.jpg,SPT_CI_07_012.jpg,socks (8),,Claire,10/25/2025,white socks ,socks; white ,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_07_014,objects/SPT_CI_07_014.jpg,SPT_CI_07_014.jpg,socks (4),,Claire,10/25/2025,black socks ,socks; black ,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_07_024,objects/SPT_CI_07_024.jpg,SPT_CI_07_024.jpg,handkerchief ,,Claire,10/25/2025,white handkerchief ,white; plain: solid; handkerchief,,,,,,,,small stain,image/jpeg,Image;StillImage,eng
+SPT_CI_07_025,objects/SPT_CI_07_025.jpg,SPT_CI_07_025.jpg,handkerchief ,,Claire,10/25/2025,white handkerchief with raw edges ,white; plain; raw edges ,,,,,,,,stained,image/jpeg,Image;StillImage,eng
+SPT_CI_02_001,objects/SPT_CI_02_001.jpg,SPT_CI_02_001.jpg,necklace,,Grace,10/25/2025,silver tree pendant,silver; necklace; pendant,,,,,,,,on wall 1,image/jpeg,Image;StillImage,eng
+SPT_CI_02_002,objects/SPT_CI_02_002.jpg,SPT_CI_02_002.jpg,girdle,,Grace,10/25/2025,gold coin girdle,gold; girdle,,,,,,,,1 of 2; on wall 2,image/jpeg,Image;StillImage,eng
+SPT_CI_02_003,objects/SPT_CI_02_003.jpg,SPT_CI_02_003.jpg,girdle,,Grace,10/25/2025,gold coin girdle,gold; girdle,,,,,,,,1 of 2; on wall 3,image/jpeg,Image;StillImage,eng
+SPT_CI_02_004,objects/SPT_CI_02_004.jpg,SPT_CI_02_004.jpg,necklace,,Grace,10/25/2025,silver beaded layered necklace,silver; necklace; beaded,,,,,,,,on wall 4,image/jpeg,Image;StillImage,eng
+SPT_CI_02_006,objects/SPT_CI_02_006.jpg,SPT_CI_02_006.jpg,necklace,,Grace,10/25/2025,short white beaded necklace,white; beaded; necklace,,,,,,,,on wall 5,image/jpeg,Image;StillImage,eng
+SPT_CI_02_007,objects/SPT_CI_02_007.jpg,SPT_CI_02_007.jpg,necklace,,Grace,10/25/2025,silver pendant with red spider gem,silver; necklace; pendant; stones; red,,,,,,,,on wall 6,image/jpeg,Image;StillImage,eng
+SPT_CI_02_008,objects/SPT_CI_02_007.jpg,SPT_CI_02_008.jpg,tiara,,Grace,10/25/2025,silver tiara with sun and moon,silver; tiara; stones,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_02_009,objects/SPT_CI_02_009.jpg,SPT_CI_02_009.jpg,headband,,Grace,10/25/2025,gold headband with laurels,gold; headband,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_02_010,objects/SPT_CI_02_010.jpg,SPT_CI_02_010.jpg,girdle,,Grace,10/25/2025,silver girdle with black gem,silver; girdle; black; stones,,,,,,,,on wall 7,image/jpeg,Image;StillImage,eng
+SPT_CI_02_011,objects/SPT_CI_02_011.jpg,SPT_CI_02_011.jpg,necklace,,Grace,10/25/2025,blue and silver short beaded necklace,blue; silver; beaded; necklace,,,,,,,,matching w/ grey necklace; on wall 8,image/jpeg,Image;StillImage,eng
+SPT_CI_02_012,objects/SPT_CI_02_012.jpg,SPT_CI_02_012.jpg,necklace,,Grace,10/25/2025,grey and silver beaded necklace,grey; silver; beaded; necklace,,,,,,,,matching w/ blue necklace; on wall 9,image/jpeg,Image;StillImage,eng
+SPT_CI_02_013,objects/SPT_CI_02_013.jpg,SPT_CI_02_013.jpg,necklace,,Grace,10/25/2025,blue beaded necklace with white speckles,blue; beaded; necklace,,,,,,,,on wall 10,image/jpeg,Image;StillImage,eng
+SPT_CI_02_014,objects/SPT_CI_02_014.jpg,SPT_CI_02_014.jpg,necklace,,Grace,10/25/2025,silver pendant on blue ribbon,silver; stoned; blue,,,,,,,,pendant should probably be moved to a different chain the ribbon is kind of stupid; on wall 11,image/jpeg,Image;StillImage,eng
+SPT_CI_02_015,objects/SPT_CI_02_015.jpg,SPT_CI_02_015.jpg,earrings,,Grace,10/25/2025,silver clip-on earrings with black stone,silver; black; earrings; stoned; clip-on,,,,,,,,clip-on earrings drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_016,objects/SPT_CI_02_016.jpg,SPT_CI_02_016.jpg,necklace,,Grace,10/25/2025,silver wire-wrapped pendant with green stone tree,silver; green; stoned; necklace; pendant,,,,,,,,missing a chain,image/jpeg,Image;StillImage,eng
+SPT_CI_02_017,objects/SPT_CI_02_017.jpg,SPT_CI_02_017.jpg,brooch,,Grace,10/25/2025,gold brooch with fake diamonds,gold; stoned; brooch,,,,,,,,"missing a few stones, 1 of 2; brooch drawer",image/jpeg,Image;StillImage,eng
+SPT_CI_02_018,objects/SPT_CI_02_018.jpg,SPT_CI_02_018.jpg,brooch,,Grace,10/25/2025,gold brooch with fake diamonds,gold; stoned; brooch,,,,,,,,"missing a few stones, 1 of 2; brooch drawer",image/jpeg,Image;StillImage,eng
+SPT_CI_02_019,objects/SPT_CI_02_019.jpg,SPT_CI_02_019.jpg,earrings,,Grace,10/25/2025,gold clip-on earrings with fake diamond,gold; stoned; earrings; clip-on,,,,,,,,clip-on earrings drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_020,objects/SPT_CI_02_020.jpg,SPT_CI_02_020.jpg,watch,,Grace,10/25/2025,silver watch,silver; watch,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_02_021,objects/SPT_CI_02_021.jpg,SPT_CI_02_021.jpg,hairpin,,Grace,10/25/2025,gold tree hairpin,gold; hairpin,,,,,,,,hairpin drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_022,objects/SPT_CI_02_022jpg,SPT_CI_02_022.jpg,earrings,friedflowers,Grace,10/25/2025,large black and white 70s earrings,earrings; black; white,,,,,,,,big earrings drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_023,objects/SPT_CI_02_023jpg,SPT_CI_02_023.jpg,brooch,,Grace,10/25/2025,gold brooch with red stones and pearls,brooch; gold; stoned; red,,,,,,,,brooch drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_025,objects/SPT_CI_02_025.jpg,SPT_CI_02_025.jpg,watch,,Grace,10/25/2025,black watch,watch; black,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_02_026,objects/SPT_CI_02_026.jpg,SPT_CI_02_026.jpg,necklace,,Grace,10/25/2025,silver choker with fake diamonds,necklace; choker; stoned; silver,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_02_027,objects/SPT_CI_02_027.jpg,SPT_CI_02_027.jpg,bracelet,,Grace,10/25/2025,black beaded bracelet,bracelet; beaded; black,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_02_028,objects/SPT_CI_02_028.jpg,SPT_CI_02_028.jpg,other jewelry,,Grace,10/25/2025,gold long nail jewelry,gold; hand jewelry; creepy fingers,,,,,,,,set of 18,image/jpeg,Image;StillImage,eng
+SPT_CI_02_029,objects/SPT_CI_02_029.jpg,SPT_CI_02_029.jpg,bracelet,,Grace,10/25/2025,black leather studded cuff,black; leather; silver; bracelet; cuff,,,,,,,,1 of 2; studded drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_030,objects/SPT_CI_02_030.jpg,SPT_CI_02_030.jpg,bracelet,,Grace,10/25/2025,black leather studded cuff,black; leather; silver; bracelet; cuff; studded,,,,,,,,1 of 2; studded drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_031,objects/SPT_CI_02_031.jpg,SPT_CI_02_031.jpg,necklace,,Grace,10/25/2025,black leather studded choker,black; leather; silver; choker; necklace; studded,,,,,,,,studded drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_032,objects/SPT_CI_02_032.jpg,SPT_CI_02_032.jpg,necklace,,Grace,10/25/2025,plain silver chain,silver; necklace,,,,,,,,on wall 12,image/jpeg,Image;StillImage,eng
+SPT_CI_02_033,objects/SPT_CI_02_033.jpg,SPT_CI_02_033.jpg,necklace,,Grace,10/25/2025,plain gold chain,gold; necklace,,,,,,,,on wall 13,image/jpeg,Image;StillImage,eng
+SPT_CI_02_034,objects/SPT_CI_02_034.jpg,SPT_CI_02_034.jpg,earrings,nastygal,Grace,10/25/2025,gold long earrings with fake diamonds,gold; stoned; earrings,,,,,,,,normal earrings drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_035,objects/SPT_CI_02_035.jpg,SPT_CI_02_035.jpg,earrings,,Grace,10/25/2025,black dangly earrings,black; stoned; earrings,,,,,,,,normal earrings drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_036,objects/SPT_CI_02_036.jpg,SPT_CI_02_036.jpg,earrings,,Grace,10/25/2025,large gold hammered flower earrings,gold; earrings,,,,,,,,big earrings drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_037,objects/SPT_CI_02_037.jpg,SPT_CI_02_037.jpg,bracelet,,Grace,10/25/2025,silver studded cuff,silver; bracelet; studded,,,,,,,,studded drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_038,objects/SPT_CI_02_038.jpg,SPT_CI_02_038.jpg,necklace,,Grace,10/25/2025,silver fringe necklace,silver; necklace,,,,,,,,on wall 14,image/jpeg,Image;StillImage,eng
+SPT_CI_02_039,objects/SPT_CI_02_039.jpg,SPT_CI_02_039.jpg,necklace,,Grace,10/25/2025,plain silver chain,silver; necklace,,,,,,,,on wall 15,image/jpeg,Image;StillImage,eng
+SPT_CI_02_040,objects/SPT_CI_02_040.jpg,SPT_CI_02_040.jpg,necklace,,Grace,10/25/2025,plain silver chain choker,silver; necklace; choker,,,,,,,,on wall 16,image/jpeg,Image;StillImage,eng
+SPT_CI_02_041,objects/SPT_CI_02_041.jpg,SPT_CI_02_041.jpg,earrings,nastygal,Grace,10/25/2025,silver heart dangling earrings,silver; earrings,,,,,,,,normal earrings drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_042,objects/SPT_CI_02_042.jpg,SPT_CI_02_042.jpg,earrings,,Grace,10/25/2025,gold hoop earrings,gold; earrings,,,,,,,,big earrings drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_043,objects/SPT_CI_02_043.jpg,SPT_CI_02_043.jpg,necklace,,Grace,10/25/2025,silver heart choker,silver; choker; necklace,,,,,,,,on wall 17,image/jpeg,Image;StillImage,eng
+SPT_CI_02_044,objects/SPT_CI_02_044.jpg,SPT_CI_02_044.jpg,necklace,,Grace,10/25/2025,simple long silver chain,silver; necklace,,,,,,,,on wall 18,image/jpeg,Image;StillImage,eng
+SPT_CI_02_045,objects/SPT_CI_02_00145.jpg,SPT_CI_02_045.jpg,earrings,,Grace,10/25/2025,silver diamond shaped earrings,earrings; link; silver,,,,,,,,big earrings drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_046,objects/SPT_CI_02_046.jpg,SPT_CI_02_046.jpg,brooch,,Grace,10/25/2025,silver leaf brooch,silver; brooch,,,,,,,,brooch drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_047,objects/SPT_CI_02_047.jpg,SPT_CI_02_047.jpg,brooch,,Grace,10/25/2025,gold circular brooch with pearls,gold; brooch,,,,,,,,brooch drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_048,objects/SPT_CI_02_048.jpg,SPT_CI_02_048.jpg,other jewelry,,Grace,10/25/2025,silver shoulder chains,silver; shoulder jewelry,,,,,,,,on wall 19,image/jpeg,Image;StillImage,eng
+SPT_CI_02_049,objects/SPT_CI_02_049.jpg,SPT_CI_02_049.jpg,earrings,,Grace,10/25/2025,pink and orange 70s floral earrings,pink; orange; earrings,,,,,,,,normal earrings drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_050,objects/SPT_CI_02_050.jpg,SPT_CI_02_050.jpg,earrings,,Grace,10/25/2025,yellow and white floral earrings,yellow; white; earrings,,,,,,,,normal earrings drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_051,objects/SPT_CI_02_051.jpg,SPT_CI_02_051.jpg,ring,,Grace,10/25/2025,drawer of about 20 rings,silver; gold; ring; multiple,,,,,,,,rings drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_052,objects/SPT_CI_02_052.jpg,SPT_CI_02_052.jpg,necklace,,Grace,10/25/2025,"black, grey, and blue beaded necklace",black; blue; grey; necklace; beaded,,,,,,,,on wall 20,image/jpeg,Image;StillImage,eng
+SPT_CI_02_054,objects/SPT_CI_02_054.jpg,SPT_CI_02_054.jpg,necklace,,Grace,10/25/2025,black beaded short necklace,black; beaded; necklace,,,,,,,,on wall 22,image/jpeg,Image;StillImage,eng
+SPT_CI_02_055,objects/SPT_CI_02_055.jpg,SPT_CI_02_055.jpg,necklace,,Grace,10/25/2025,multiple gold circle/heart locket pendants,gold; pendant; multiple,,,,,,,,missing chains; pendant drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_056,objects/SPT_CI_02_056.jpg,SPT_CI_02_056.jpg,necklace,,Grace,10/25/2025,bag of many chains,gold; silver; necklace; multiple,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_02_057,objects/SPT_CI_02_057.jpg,SPT_CI_02_057.jpg,necklace,,Grace,10/25/2025,small pink heart silver necklace ,silver; pink; necklace,,,,,,,,on wall 23,image/jpeg,Image;StillImage,eng
+SPT_CI_02_058,objects/SPT_CI_02_058.jpg,SPT_CI_02_058.jpg,necklace,,Grace,10/25/2025,plain silver chain,silver; necklace,,,,,,,,on wall 24,image/jpeg,Image;StillImage,eng
+SPT_CI_02_059,objects/SPT_CI_02_059.jpg,SPT_CI_02_059.jpg,necklace,,Grace,10/25/2025,gold necklace with black flower pendant,gold; black; stoned; necklace,,,,,,,,on wall 25,image/jpeg,Image;StillImage,eng
+SPT_CI_02_060,objects/SPT_CI_02_060.jpg,SPT_CI_02_060.jpg,necklace,,Grace,10/25/2025,gold necklace with black stones,gold; black; stoned; necklace,,,,,,,,on wall 26,image/jpeg,Image;StillImage,eng
+SPT_CI_02_061,objects/SPT_CI_02_061.jpg,SPT_CI_02_061.jpg,pin,,Grace,10/25/2025,various enamel pins,pin; multiple; enamel,,,,,,,,pins drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_062,objects/SPT_CI_02_062.jpg,SPT_CI_02_062.jpg,necklace,,Grace,10/25/2025,gold and fake diamond pendant,pendant; stoned; gold,,,,,,,,missing chain; in pendant drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_063,objects/SPT_CI_02_063.jpg,SPT_CI_02_063.jpg,necklace,,Grace,10/25/2025,multicolor bronze pendant,pendant; stoned; bronze,,,,,,,,missing chain; in pendant drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_064,objects/SPT_CI_02_064.jpg,SPT_CI_02_064.jpg,brooch,,Grace,10/25/2025,silver brooch,silver; brooch; stoned,,,,,,,,brooch drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_065,objects/SPT_CI_02_065.jpg,SPT_CI_02_065.jpg,brooch,,Grace,10/25/2025,green and gold leaf brooch,gold; green; stoned; brooch,,,,,,,,brooch drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_066,objects/SPT_CI_02_066.jpg,SPT_CI_02_066.jpg,brooch,,Grace,10/25/2025,gold brooch with black stone,gold; black; brooch; stoned,,,,,,,,brooch drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_067,objects/SPT_CI_02_067.jpg,SPT_CI_02_067.jpg,brooch,,Grace,10/25/2025,gold anchor brooch,gold; brooch,,,,,,,,brooch drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_068,objects/SPT_CI_02_068.jpg,SPT_CI_02_068.jpg,earrings,,Grace,10/25/2025,gold and lime green dangling earrings,green; gold; earrings,,,,,,,,normal earrings drawer,image/jpeg,Image;StillImage,eng
+SPT_CI_02_069,objects/SPT_CI_02_069.jpg,SPT_CI_02_069.jpg,bracelet ,,Grace,10/25/2025,gold bracelet,gold; bracelet,,,,,,,,bracelet drawer,image/jpeg,Image;StillImage,eng
+SPT_SI_001,objects/SPT_SI_001.jpg,SPT_SI_001.jpg,Stool x2,,,10/25/2025,"Brown barstool, two rings round top",Chair;wood;stool,13x 13x 29.5,,,,,,,Slightly wobbly,image/jpeg,Image;StillImage,eng
+SPT_SI_002,objects/SPT_SI_002.jpg,SPT_SI_002.jpg,Wicker bench,,,10/25/2025,"Wicker bench, some detailing",Bench;brown; wicket,4ftx35inx28in,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_003,objects/SPT_SI_003.jpg,SPT_SI_003.jpg,Projector,,,10/25/2025,Elmo projector vintage looking ,Projector; metal; glass; plastic,26.5inx12.75x17in,,,,,,,Functional,image/jpeg,Image;StillImage,eng
+SPT_SI_004,objects/SPT_SI_004.jpg,SPT_SI_004.jpg,Plant,,,10/25/2025,Plant with big leaves in wicker basket,Plant;green;potted,40.5in,,,,,,,Slightly ugly,image/jpeg,Image;StillImage,eng
+SPT_SI_005,objects/SPT_SI_005.jpg,SPT_SI_005.jpg,Plant,,,10/25/2025,Plant with medium leaves,Plant;green;potted,38.5,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_006,objects/SPT_SI_006.jpg,SPT_SI_006.jpg,Plant map,,,10/25/2025,Plastic plants,Meshed; sparse;foliage,67x28x,,,,,,,Crinkly,image/jpeg,Image;StillImage,eng
+SPT_SI_007,objects/SPT_SI_007.jpg,SPT_SI_007.jpg,Razor scooter,,,10/25/2025,Razor scooter,Metal; scooter; roll,32x18in,,,,,,,Operational,image/jpeg,Image;StillImage,eng
+SPT_SI_009,objects/SPT_SI_009.jpg,SPT_SI_009.jpg,Mirror,,,10/25/2025,Reflective mirror gilt frame,Mirror;frame; gold,22.76x18.5x0.5,,,,,,,Good,image/jpeg,Image;StillImage,eng
+SPT_SI_010,objects/SPT_SI_010.jpg,SPT_SI_010.jpg,Throne like chair,,,10/25/2025,"Wood, velvet, blue and dark wood, somewhat ornate chair",Chair; fancy; throne like,23x23x47,,,,,,,"Damage on left arm, top left non comes off",image/jpeg,Image;StillImage,eng
+SPT_SI_011,objects/SPT_SI_011.jpg,SPT_SI_011.jpg,Suitcase,,,10/25/2025,Vinyl off white two clasps,Suitcase; ornate,18.25x11.75x6.25,,,,,,,Beat up,image/jpeg,Image;StillImage,eng
+SPT_SI_012,objects/SPT_SI_012.jpg,SPT_SI_012.jpg,Table,,,10/25/2025,"Fun fancy outdoor table, round, light detailing, holes",Round; circle;table,27.5x24diameter,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_013,objects/SPT_SI_013.jpg,SPT_SI_013.jpg,Chair,,,10/25/2025,Chair plain crossbacked ,Chair; brown; simple,21.5x18x35,,,,,,,Sturdy,image/jpeg,Image;StillImage,eng
+SPT_SI_014,objects/SPT_SI_014.jpg,SPT_SI_014.jpg,Table,,,10/25/2025,"Table fold out flaps, fancy legs",Table;fold out; brown,53.5(or 22.5)x36x29,,,,,,,"Wobbly but functional, can't hold much weight",image/jpeg,Image;StillImage,eng
+SPT_SI_015,objects/SPT_SI_015.jpg,SPT_SI_015.jpg,Big piece of wood,,,10/25/2025,Big piece of lumber,Long peice of lumber for building,121x10x1.5,,,,,,,Three of them,image/jpeg,Image;StillImage,eng
+SPT_SI_016,objects/SPT_SI_016.jpg,SPT_SI_016.jpg,Table,,,10/25/2025,Table brown simple,Dark brown; table,35.5x19.75x29.5,,,,,,,Slightly wobbly,image/jpeg,Image;StillImage,eng
+SPT_SI_017,objects/SPT_SI_017.jpg,SPT_SI_017.jpg,Table,,,10/25/2025,Dark brown endtable with slight gold detail,Dark brown; small table,26.5x17x17,,,,,,,Slightly wobbly,image/jpeg,Image;StillImage,eng
+SPT_SI_018,objects/SPT_SI_018.jpg,SPT_SI_018.jpg,Long plant,,,10/25/2025,"Few plants in long box, different leaves",Mixed leaves; plants; low,33in long,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_019,objects/SPT_SI_019.jpg,SPT_SI_019.jpg,Long plant,,,10/25/2025,Few plants in long white box with butterfly,Mixed leaves; plant; low,19in long,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_020,objects/SPT_SI_020.jpg,SPT_SI_020.jpg,Long plant,,,10/25/2025,Few plants in long low box mixed foliage,Mixed leaves; plant,27 in long,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_021,objects/SPT_SI_021.jpg,SPT_SI_021.jpg,Long plant,,,10/25/2025,Potted plant with fake red flowers,,42in tall,,,,,,,red flowers,image/jpeg,Image;StillImage,eng
+SPT_SI_022,objects/SPT_SI_022.jpg,SPT_SI_022.jpg,Very tall plant,,,10/25/2025,Tall tree in potted plant,Tree; potted;,71in y'all,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_023,objects/SPT_SI_023.jpg,SPT_SI_023.jpg,Medium tall plant,,,10/25/2025,Medium height tree in potted plant with green medium leaves,Tree; potted,41,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_024,objects/SPT_SI_024.jpg,SPT_SI_024.jpg,Medium tall plant,,,10/25/2025,Medium height tree with greenish leaves,Tree; potted,37,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_025,objects/SPT_SI_025.jpg,SPT_SI_025.jpg,Cushy chair,,,10/25/2025,Floral patterned armchair,Armchair; red; blue; white,31x33.5x44.5,,,,,,,"Beautiful, dirty",image/jpeg,Image;StillImage,eng
+SPT_SI_026,objects/SPT_SI_026.jpg,SPT_SI_026.jpg,Table,,,10/25/2025,Floral picture circle table,Circle table with flower pink and orange and green,Diameter 23.5x27.5,,,,,,,Wobbly,image/jpeg,Image;StillImage,eng
+SPT_SI_027,objects/SPT_SI_027.jpg,SPT_SI_027.jpg,Couch,,,10/25/2025,Armchair yellowish with small red dots,Couch; vintage,30x60.25x29,,,,,,,Good but dirty,image/jpeg,Image;StillImage,eng
+SPT_SI_028,objects/SPT_SI_028.jpg,SPT_SI_028.jpg,Fold chair,,,10/25/2025,Light wood folding chair slotted,Chair; folding,18.75x34.5x20,,,,,,,X2,image/jpeg,Image;StillImage,eng
+SPT_SI_029,objects/SPT_SI_029.jpg,SPT_SI_029.jpg,Trunk,,,10/25/2025,Ornate wooden trunk beautiful ,Trunk; ornate,25.5x14x15,,,,,,,Good,image/jpeg,Image;StillImage,eng
+SPT_SI_030,objects/SPT_SI_030.jpg,SPT_SI_030.jpg,Various pillows and blanket in trunk,,,10/25/2025,"Autumn's throw pillows, green blanket",Pillows; throwpillows,12x16,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_031,objects/SPT_SI_031.jpg,SPT_SI_031.jpg,Table,,,10/25/2025,Tech foldable tall desk ,,76x18x40.5,,,,,,,good,image/jpeg,Image;StillImage,eng
+SPT_SI_032,objects/SPT_SI_032.jpg,SPT_SI_032.jpg,Paint x4,,,10/25/2025,"2 cans flat black, one half can red, brown",Paint,Large paint cans,,,,,,,Good,image/jpeg,Image;StillImage,eng
+SPT_SI_033,objects/SPT_SI_033.jpg,SPT_SI_033.jpg,Curtain fabrics 3,,,10/25/2025,3 shimmer curtains,Curtain; shiny; silver; speckled,Sheets,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_034,objects/SPT_SI_034.jpg,SPT_SI_034.jpg,Green ribbed fabric,,,10/25/2025,Long green horizontal green ribbed sheet,Curtain; green; ribbed,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_035,objects/SPT_SI_035.jpg,SPT_SI_035.jpg,4 cans paint,,,10/25/2025,"2 bucket white paint, one and a half bucket black paint",Paint; white; black,Large paint cans,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_036,objects/SPT_SI_036.jpg,SPT_SI_036.jpg,Bucket of brushes and rollers,,,10/25/2025,"Three large brushes, three roller ends, three roller stems, dabbed",,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_037,objects/SPT_SI_037.jpg,SPT_SI_037.jpg,box of tablecloths,,,10/25/2025,a couple of white tablecloths ,tablecloth; white,,,,,,,,good,image/jpeg,Image;StillImage,eng
+SPT_SI_038,objects/SPT_SI_038.jpg,SPT_SI_038.jpg,Nail takeout container,,,10/25/2025,Takeout container of screws,Screws,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_039,objects/SPT_SI_039.jpg,SPT_SI_039.jpg,Bag of ropes,,,10/25/2025,"Bag full of various lengths, sizes, and colors of ropes",,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_040,objects/SPT_SI_040.jpg,SPT_SI_040.jpg,Gold contact paper,,,10/25/2025,Golden shinny contact paper,Gold; shiny; contact paper,A lot,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_041,objects/SPT_SI_041.jpg,SPT_SI_041.jpg,white chairs,,,10/25/2025,pair of white metal garden chairs,white; chair; ,33.75x14.5x14.5,,,,,,,good x2,image/jpeg,Image;StillImage,eng
+SPT_SI_042,objects/SPT_SI_042.jpg,SPT_SI_042.jpg,Hefty stool,,,10/25/2025,"Stained brown chair, low, stool",Stool; low; chair,19x14x20,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_043,objects/SPT_SI_043.jpg,SPT_SI_043.jpg,Accordion modesty shade,,,10/25/2025,Black and white foldable accordion modesty shade,Shade; accordion; foldable,"70.5x17.45 (each panel, there are four total)",,,,,,,Fair x4,image/jpeg,Image;StillImage,eng
+SPT_SI_044,objects/SPT_SI_044.jpg,SPT_SI_044.jpg,decorative white ladder x2,,,10/25/2025,white non-weight-barring ladder ,white; ladder;,72x26x3.5,,,,,,,goodx2,image/jpeg,Image;StillImage,eng
+SPT_SI_045,objects/SPT_SI_045.jpg,SPT_SI_045.jpg,Throne,,,10/25/2025,Large somewhat ornate throne,Throne; wood; king,24x66x18.5,,,,,,,Good!,image/jpeg,Image;StillImage,eng
+SPT_SI_046,objects/SPT_SI_046.jpg,SPT_SI_046.jpg,Mailbox,,,10/25/2025,"Mailbox on pole labeled ""the montages""",Mailbox,50.5x19.75x13,,,,,,,Good,image/jpeg,Image;StillImage,eng
+SPT_SI_047,objects/SPT_SI_047.jpg,SPT_SI_047.jpg,Red rugs x3,,,10/25/2025,Red rugs long,Rug; red,35.5x96,,,,,,,Goodx3,image/jpeg,Image;StillImage,eng
+SPT_SI_048,objects/SPT_SI_048.jpg,SPT_SI_048.jpg,Nature rug,,,10/25/2025,"Rug with leaves on it, purple plant, yellow plant, plant, yellow",Rug; leaves; purple; yellow; black,63x88,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_049,objects/SPT_SI_049.jpg,SPT_SI_049.jpg,Red patterned rug,,,10/25/2025,White floral pattern on promdominatly red rug,Red; rug; white lines,76x52.5,,,,,,,Gross but in good condition,image/jpeg,Image;StillImage,eng
+SPT_SI_050,objects/SPT_SI_050.jpg,SPT_SI_050.jpg,Red net,,,10/25/2025,"Large weave net, red— bloody, rope",Red; net; rope,100x37,,,,,,,Good but covered in fake blood,image/jpeg,Image;StillImage,eng
+SPT_SI_051,objects/SPT_SI_051.jpg,SPT_SI_051.jpg,Potsx2,,,10/25/2025,Ornate ancient looking pots,Pots; ornate; old,15x12x12,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_052,objects/SPT_SI_052.jpg,SPT_SI_052.jpg,Red couch,,,10/25/2025,"Disassembled couch red, with cushions",Couch; red,55x25x38,,,,,,,Disassembled but good condition),image/jpeg,Image;StillImage,eng
+SPT_SI_053,objects/SPT_SI_053.jpg,SPT_SI_053.jpg,assorted paint,,,10/25/2025,"3 cans of primer, 1 yellow, 1 blue, wood stain, 3 cans of touch n' foam, 1 jug of glue",,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_054,objects/SPT_SI_054.jpg,SPT_SI_054.jpg,Bucket of miscellaneous pillows ,,,10/25/2025,"White pillows, pink pillows, blankets",Pillows; white; pink,,,,,,,,Dirty but fine,image/jpeg,Image;StillImage,eng
+SPT_SI_055,objects/SPT_SI_055.jpg,SPT_SI_055.jpg,macintosh classic computer,,,10/25/2025,"old vintage beige box computer, works but only gives a screen of lines",,9.5x12.5x10,,,,,,,"sort of works, good condition ",image/jpeg,Image;StillImage,eng
+SPT_SI_056,objects/SPT_SI_056.jpg,SPT_SI_056.jpg,Brown leather suitcase x2,,,10/25/2025,"Nice brown leaver suitcases, clasps, nice",Suitcase; brown; leather,18x13x4.25,,,,,,,Nice but inobenable,image/jpeg,Image;StillImage,eng
+SPT_SI_057,objects/SPT_SI_057.jpg,SPT_SI_057.jpg,Big black trunk ,,,10/25/2025,Dark black ornate trunk,Trunk; black;,20x13x15,,,,,,,Good,image/jpeg,Image;StillImage,eng
+SPT_SI_058,objects/SPT_SI_058.jpg,SPT_SI_058.jpg,Small multicolored suitcase,,,10/25/2025,Small suitcase with brown leather lines and multicolored print,Suitcase;small,14.25x6.5x12,,,,,,,Good unopenable,image/jpeg,Image;StillImage,eng
+SPT_SI_059,objects/SPT_SI_059.jpg,SPT_SI_059.jpg,Lamp,,,10/25/2025,"Small lamp, v shaped gold, yellow shade",Lamp; gold,19 tall,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_060,objects/SPT_SI_060.jpg,SPT_SI_060.jpg,Miscellaneous lumber,,,10/25/2025,Lumber of various lengths and sizes in corner behind door ,Lumber,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_061,objects/SPT_SI_061.jpg,SPT_SI_061.jpg,Stairs x2,,,10/25/2025,"Black stairs, one with three steps one with four",Stairs; set; peice,40x24x24,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_062,objects/SPT_SI_062.jpg,SPT_SI_062.jpg,Lear painted backdrops,,,10/25/2025,"Painted castle, window, and moors",Painting; set drop; tree,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_063,objects/SPT_SI_063.jpg,SPT_SI_063.jpg,Yoga mat,,,10/25/2025,Green yoga mat,Yoga mat; green,24x71,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_064,objects/SPT_SI_064.jpg,SPT_SI_064.jpg,Army Cot,,,10/25/2025,"Green army cot, foldable",Army cot; cot; green,,,,,,,,"Good, not easy to set up (hard for set transition)",image/jpeg,Image;StillImage,eng
+SPT_SI_065,objects/SPT_SI_065.jpg,SPT_SI_065.jpg,4 brown curtains,,,10/25/2025,Brown curtain,Brown; curtain,60x120,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_066,objects/SPT_SI_066.jpg,SPT_SI_066.jpg,2 black curtains,,,10/25/2025,Velvet black curtain,Black; velvet; curtain,60x120,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_SI_067,objects/SPT_SI_067.jpg,SPT_SI_067.jpg,Nightstand,,,10/25/2025,brown wooden nightstand,brown; wooden; nightstand; small,18x18x23.5,,,,,,,fair,image/jpeg,Image;StillImage,eng
+SPT_CI_01_001,objects/SPT_CI_01_001.jpg,SPT_CI_01_001.jpg,Makeup,Aussie,Francis,10/25/2025,Hairspray,,14oz,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_002,objects/SPT_CI_01_002.jpg,SPT_CI_01_002.jpg,Makeup,Loreal Paris,Francis,10/25/2025,Hair color,gray,2oz,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_003,objects/SPT_CI_01_003.jpg,SPT_CI_01_003.jpg,Makeup,Garnier Fructis (3),Francis,10/25/2025,Hairgel,ultra strong,6.8 fl oz,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_004,objects/SPT_CI_01_004.jpg,SPT_CI_01_004.jpg,Makeup,,Francis,10/25/2025,Haircutting scissors,gray,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_005,objects/SPT_CI_01_005.jpg,SPT_CI_01_005.jpg,Makeup,Conair,Francis,10/25/2025,Comb,black,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_006,objects/SPT_CI_01_006.jpg,SPT_CI_01_006.jpg,Makeup,got2b (2),Francis,10/25/2025,Hairspray,,14.4 oz,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_007,objects/SPT_CI_01_007.jpg,SPT_CI_01_007.jpg,Makeup,tresemme,Francis,10/25/2025,Hairspray,mousse,2 oz,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_008,objects/SPT_CI_01_008.jpg,SPT_CI_01_008.jpg,Makeup,tresemme,Francis,10/25/2025,Hairspray,,4.2 oz,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_009,objects/SPT_CI_01_009.jpg,SPT_CI_01_009.jpg,Makeup,bigsexyhair,Francis,10/25/2025,Hairspray,,10.6 oz,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_010,objects/SPT_CI_01_010.jpg,SPT_CI_01_010.jpg,Makeup,loreal paris,Francis,10/25/2025,Hairspray,,8.25 oz,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_011,objects/SPT_CI_01_011.jpg,SPT_CI_01_011.jpg,Makeup,loreal paris,Francis,10/25/2025,Hairgel,,6.8,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_012,objects/SPT_CI_01_012.jpg,SPT_CI_01_012.jpg,Makeup,ada studio,Francis,10/25/2025,Makeup brush set,rolled; nude; ,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_013,objects/SPT_CI_01_013.jpg,SPT_CI_01_013.jpg,Makeup,bs mall,Francis,10/25/2025,Makeup brush set,plastic; black,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_014,objects/SPT_CI_01_014.jpg,SPT_CI_01_014.jpg,Makeup,tresemme,Francis,10/25/2025,Hairgel,,9oz,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_015,objects/SPT_CI_01_015.jpg,SPT_CI_01_015.jpg,Makeup,bed head,Francis,10/25/2025,Curling iron,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_016,objects/SPT_CI_01_016.jpg,SPT_CI_01_016.jpg,Makeup,,Francis,10/25/2025,Bobby pins,,,,,,,,,small tin and sheet,image/jpeg,Image;StillImage,eng
+SPT_CI_01_017,objects/SPT_CI_01_017.jpg,SPT_CI_01_017.jpg,Makeup,,Francis,10/25/2025,q tips,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_018,objects/SPT_CI_01_018.jpg,SPT_CI_01_018.jpg,Makeup,,Francis,10/25/2025,costton rounds,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_019,objects/SPT_CI_01_019.jpg,SPT_CI_01_019.jpg,Makeup,,Francis,10/25/2025,hair elastics,black; clear,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_020,objects/SPT_CI_01_020.jpg,SPT_CI_01_020.jpg,Makeup,,Francis,10/25/2025,hair clips,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_021,objects/SPT_CI_01_021.jpg,SPT_CI_01_021.jpg,Makeup,,Francis,10/25/2025,claw clip,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_022,objects/SPT_CI_01_022.jpg,SPT_CI_01_022.jpg,Makeup,,Francis,10/25/2025,headbands,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_023,objects/SPT_CI_01_023.jpg,SPT_CI_01_023.jpg,Makeup,herbal essences,Francis,10/25/2025,hair spray,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_024,objects/SPT_CI_01_024.jpg,SPT_CI_01_024.jpg,Makeup,,Francis,10/25/2025,hair ties,assorted,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_025,objects/SPT_CI_01_025.jpg,SPT_CI_01_025.jpg,Makeup,,Francis,10/25/2025,combs,assorted,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_028,objects/SPT_CI_01_028.jpg,SPT_CI_01_028.jpg,Makeup,assorted,Francis,10/25/2025,contour,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_029,objects/SPT_CI_01_029.jpg,SPT_CI_01_029.jpg,Makeup,assorted,Francis,10/25/2025,concealer,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_030,objects/SPT_CI_01_030.jpg,SPT_CI_01_030.jpg,Makeup,assorted,Francis,10/25/2025,mascara,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_031,objects/SPT_CI_01_031.jpg,SPT_CI_01_031.jpg,Makeup,assorted,Francis,10/25/2025,liquid eyeliner,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_032,objects/SPT_CI_01_032.jpg,SPT_CI_01_032.jpg,Makeup,assorted,Francis,10/25/2025,eyeshadow,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_033,objects/SPT_CI_01_033.jpg,SPT_CI_01_033.jpg,Makeup,assorted,Francis,10/25/2025,makeup brush set (3),,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_034,objects/SPT_CI_01_034.jpg,SPT_CI_01_034.jpg,Makeup,conair,Francis,10/25/2025,curling roll,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_035,objects/SPT_CI_01_035.jpg,SPT_CI_01_035.jpg,Makeup,up&up,Francis,10/25/2025,isopropyl alcohol,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_036,objects/SPT_CI_01_036.jpg,SPT_CI_01_036.jpg,Makeup,,Francis,10/25/2025,nipple pasties,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_037,objects/SPT_CI_01_037.jpg,SPT_CI_01_037.jpg,Makeup,,Francis,10/25/2025,makeup wedges,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_038,objects/SPT_CI_01_038.jpg,SPT_CI_01_038.jpg,Makeup,,Francis,10/25/2025,eyelash brushes,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_039,objects/SPT_CI_01_039.jpg,SPT_CI_01_039.jpg,Makeup,,Francis,10/25/2025,eyeliner and brows,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_040,objects/SPT_CI_01_040.jpg,SPT_CI_01_040.jpg,Makeup,,Francis,10/25/2025,single use brushes,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_041,objects/SPT_CI_01_041.jpg,SPT_CI_01_041.jpg,Makeup,,Francis,10/25/2025,eyeshadow,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_042,objects/SPT_CI_01_042.jpg,SPT_CI_01_042.jpg,Makeup,Punky Colour,Francis,10/25/2025,Glitter hair and body spray,gold; silver; hair,3.5 oz,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_043,objects/SPT_CI_01_043.jpg,SPT_CI_01_043.jpg,Makeup,assorted,Francis,10/25/2025,Blush,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_01_044,objects/SPT_CI_01_044.jpg,SPT_CI_01_044.jpg,Makeup,assorted,Francis,10/25/2025,Lip Colors,liquid; matte; lip,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_09_001,objects/SPT_CI_09_001.jpg,SPT_CI_09_001.jpg,body part,,Nowacki,10/25/2025,pale/olive toned fake hand w bloody stump,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_09_002,objects/SPT_CI_09_002.jpg,SPT_CI_09_002.jpg,body part,,Nowacki,10/25/2025,pale/pink toned hand w bloody stump,,,,,,,,,wrapped in removable gauze,image/jpeg,Image;StillImage,eng
+SPT_CI_09_003,objects/SPT_CI_09_003.jpg,SPT_CI_09_003.jpg,body part,,Nowacki,10/25/2025,fake brain,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_09_004,objects/SPT_CI_09_004.jpg,SPT_CI_09_004.jpg,body part,,Nowacki,10/25/2025,fake heart,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_09_005,objects/SPT_CI_09_005.jpg,SPT_CI_09_005.jpg,body part,,Nowacki,10/25/2025,tiny skull (little larger than a dollar coin),,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_09_006,objects/SPT_CI_09_006.jpg,SPT_CI_09_006.jpg,shoes,easy street,Nowacki,10/25/2025,low heel,"black, decorative toe",,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_09_007,objects/SPT_CI_09_007.jpg,SPT_CI_09_007.jpg,shoes,,Nowacki,10/25/2025,knee high boot,"black, leather, cuff",10,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_09_008,objects/SPT_CI_09_008.jpg,SPT_CI_09_008.jpg,shoes,,Nowacki,10/25/2025,knee high boot,"black, leather, lace up front",,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_09_009,objects/SPT_CI_09_009.jpg,SPT_CI_09_009.jpg,shoes,corcoran,Nowacki,10/25/2025,combat boot,"black, leather",,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_09_010,objects/SPT_CI_09_010.jpg,SPT_CI_09_010.jpg,cufflinks,claiborne,Nowacki,10/25/2025,"cufflinks, ovals, fancy",silver and gold,,,,,,,,bagged w 09_15,image/jpeg,Image;StillImage,eng
+SPT_CI_09_011,objects/SPT_CI_09_011.jpg,SPT_CI_09_011.jpg,earrings,,Nowacki,10/25/2025,pearl studs,,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CI_09_012,objects/SPT_CI_09_012.jpg,SPT_CI_09_012.jpg,earrings,,Nowacki,10/25/2025,big studs,blue,,,,,,,,no backs,image/jpeg,Image;StillImage,eng
+SPT_CI_09_013,objects/SPT_CI_09_013.jpg,SPT_CI_09_013.jpg,earrings,,Nowacki,10/25/2025,"sparkly square with pearl, not dangly",,,,,,,,,"no backs, bagged w next",image/jpeg,Image;StillImage,eng
+SPT_CI_09_014,objects/SPT_CI_09_014.jpg,SPT_CI_09_014.jpg,earrings,,Nowacki,10/25/2025,small pearl w dangling helix and pearl,,,,,,,,,"no backs, bagged w prev",image/jpeg,Image;StillImage,eng
+SPT_CI_09_015,objects/SPT_CI_09_015.jpg,SPT_CI_09_015.jpg,cufflinks,claiborne,Nowacki,10/25/2025,"cufflinks, ovals",blue middle,,,,,,,,bagged w 09_10,image/jpeg,Image;StillImage,eng
+SPT_CI_09_016,objects/SPT_CI_09_016.jpg,SPT_CI_09_016.jpg,earrings,,Nowacki,10/25/2025,"dangly, spheres w ornamented top",gold and blue/lapis,,,,,,,,,image/jpeg,Image;StillImage,eng
+SPT_CID_018,objects/SPT_CID_018.jpg,SPT_CID_018.jpg,Dress,Chic Wish,Lee,11/14/25,cream maxi dress with floral pattern,Cream; floral; maxi; spaghetti straps; chiffon,M,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CID_019,objects/SPT_CID_019.jpg,SPT_CID_019.jpg,Dress,Asos,Lee,11/14/25,black crepey maxi dress,black; maxi; long sleeved; Peasant sleeves; mock neck; blouson,10,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CID_020,objects/SPT_CID_020.jpg,SPT_CID_020.jpg,Dress,Dressystar,Lee,11/14/25,navy a-line midi dress,navy; midi; a-line; 1950s; cap sleeve; solid,M,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CID_021,objects/SPT_CID_021.jpg,SPT_CID_021.jpg,Dress,Collectif,Francis,11/14/25,Red midi dress,bow; red; midi,24,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CID_022,objects/SPT_CID_022.jpg,SPT_CID_022.jpg,Dress,fellsie,Francis,11/14/25,Black and white dress,floral; a-line; midi,M,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CID_023,objects/SPT_CID_023.jpg,SPT_CID_023.jpg,Dress,Torrid,Lee,11/14/25,grey floral maxi dress,grey; gray; floral; maxi; spaghetti straps; jumper; sun dress; ,2,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIV_012,objects/SPT_CIV_012.jpg,SPT_CIV_012.jpg,Vest,Lizsport,Francis,11/14/25,Argyle sweatervest,grey; gray; red; black; plaid; argyle; tartan,S,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIS_001,objects/SPT_CIS_001.jpg,SPT_CIS_001.jpg,Set,Kasper,Francis,11/14/25,Red suit set,red; cotton; salmon,14,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIP_038,objects/SPT_CIP_038.jpg,SPT_CIP_038.jpg,Slacks,John Meyer,Lee Cheeseman,11/14/25,red tartan wool dress pants,red; black; brown; tartan; wool; slacks,10,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIP_039,objects/SPT_CIP_039.jpg,SPT_CIP_039.jpg,Tuxedo pants,,Lee Cheeseman,11/14/25,black tuxedo pants,Black; tuxedo; slacks; dress pants,,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIP_040,objects/SPT_CIP_040.jpg,SPT_CIP_040.jpg,Trousers,Banana Republic,Francis,11/14/25,grey wool trousers,slacks; dress pants; wool,6,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIP_041,objects/SPT_CIP_041.jpg,SPT_CIP_041.jpg,Slacks,Lee,Francis,11/14/25,grey slacks,dress pants,40x34,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CISH_026,objects/SPT_CISH_026.jpg,SPT_CISH_026.jpg,Sweater,Zara,Lee,11/14/25,White short sleeved turtleneck sweater,white; short sleeved; turtleneck; cotton; sweater,S,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CISH_027,objects/SPT_CISH_027.jpg,SPT_CISH_027.jpg,Dress shirt,Softbusiness,Lee,11/14/25,White button-up dress shirt,white; button-up; dress shirt; ,L,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CISH_028,objects/SPT_CISH_028.jpg,SPT_CISH_028.jpg,Dress shirt,Nautica,Francis,11/14/25,White dress shirt,,35/36,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CISH_029,objects/SPT_CISH_029.jpg,SPT_CISH_029.jpg,Blouse,Koret,Francis,11/14/25,White blouse,floral detail,14p,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CISH_030,objects/SPT_CISH_030.jpg,SPT_CISH_030.jpg,Dress shirt,Amazon essentials,Francis,11/14/25,White button down,,xs,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CISH_031,objects/SPT_CISH_031.jpg,SPT_CISH_031.jpg,Blouse,Qi Li Ya,Francis,11/14/25,White short sleeve blouse,puff sleeve,M,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIB_016,objects/SPT_CIB_016.jpg,SPT_CIB_016.jpg,Cardigan,MAD,Francis,11/14/2025,Pink cardigan,knit; cotton; cardigan; pink,M,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIC_012,objects/SPT_CIC_012.jpg,SPT_CIC_012.jpg,Coat,True West Outfitters,Lee,11/14/25,Grey tweed sport coat,grey; black; sport coat; tweed; single breasted; collared,36,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIC_013,objects/SPT_CIC_013.jpg,SPT_CIC_013.jpg,Jacket,Adventure bound,Francis,11/14/25,Brown suede jacket,,XL,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CISK_013,objects/SPT_CISK_013.jpg,SPT_CISK_013.jpg,skirt,,Lee,11/14/25,blue midi skirt,midi; blue; pleated; pockets,,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIO_028,objects/SPT_CIO_028.jpg,SPT_CIO_028.jpg,Shrug,Nice Wear,Lee Cheeseman,11/14/25,white short sleeved knitted shrug,white; short sleeved; shrug; knitted,S,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIO_029,objects/SPT_CIO_029.jpg,SPT_CIO_029.jpg,Petticoat (2),Grace karin,Lee,11/14/25,black midi petticoat,black; petticoat; midi,S,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIO_030,objects/SPT_CIO_030.jpg,SPT_CIO_030.jpg,Petticoat (3),,Francis,11/14/25,3 white midi petticoats,,,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIO_031,objects/SPT_CIO_031.jpg,SPT_CIO_031.jpg,Petticoat,,Francis,11/14/25,White maxi petticoat,,,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIO_032,objects/SPT_CIO_032.jpg,SPT_CIO_032.jpg,Petticoat,,Francis,11/14/25,Red midi petticoat,,,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIO_033,objects/SPT_CIO_033.jpg,SPT_CIO_033.jpg,Shrug,Your Style,Francis,11/14/25,White knit shrug,,3x,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIO_034,objects/SPT_CIO_034.jpg,SPT_CIO_034.jpg,Shrug,Belle Poque,Lee,11/14/25,Turquoise floral shrug,Turquoise; green; blue; floral; short sleeved; shrug; cropped,2xl,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIO_035,objects/SPT_CIO_035.jpg,SPT_CIO_035.jpg,Apron,,Lee,11/14/25,white and blue floral maxi apron,apron; white; blue; checkered; floral; high neck; open back; maxi,,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIO_036,objects/SPT_CIO_036.jpg,SPT_CIO_036.jpg,Veil,,Francis,11/14/25,Black veil,Tuille,,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIO_037,objects/SPT_CIO_037.jpg,SPT_CIO_037.jpg,Scarf,,Lee,11/14/25,Red and grey head scarf,red; grey; head scarf; ,,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIO_038,objects/SPT_CIO_038.jpg,SPT_CIO_038.jpg,Hankerchief,,Francis,11/14/25,White hankerchief,,,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIO_039,objects/SPT_CIO_039.jpg,SPT_CIO_039.jpg,Headband,,Francis,11/14/25,Black veiled headband,Net; black gem; veil; hair,,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIO_040,objects/SPT_CIO_040.jpg,SPT_CIO_040.jpg,Scarf,,Lee,11/14/25,Green flora scarf,green; floral; scarf; sheer; head scarf,,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIO_041,objects/SPT_CIO_041.jpg,SPT_CIO_041.jpg,Scarf,,Francis,11/14/25,Blue scarf,Sheer,,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIO_042,objects/SPT_CIO_042.jpg,SPT_CIO_042.jpg,Tie,Perry Ellis,Francis,11/14/25,Diamond tie,Red; blue; yellow; white;,,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIO_043,objects/SPT_CIO_043.jpg,SPT_CIO_043.jpg,Veil,,Lee,11/14/25,Black veil,sheer; hair,,,,,,,,medea,image/jpeg,Image;StillImage,eng
+SPT_CIV_023,objects/SPT_CIV_023.jpg,SPT_CIV_023.jpg,Vest,,Francis,12/15/25,Blue vest,blue; vest; polyester; cropped,,,,,,,,,,,
+SPT_CIV_024,objects/SPT_CIV_024.jpg,SPT_CIV_024.jpg,Vest,Nasty Gal,Francis,12/15/25,Beige vest,silk; beige; tan; vest; top,,,,,,,,,,,
+SPT_CIV_025,objects/SPT_CIV_025.jpg,SPT_CIV_025.jpg,Vest,Geoffrey Beene,Lee,12/15/25,Navy sweater vest,v-neck; plaid,,,,,,,,,,,
+SPT_CIV_026,objects/SPT_CIV_026.jpg,SPT_CIV_026.jpg,Vest,Life's Adventures,Lee,12/15/25,green and blue tartan vest,wool; tartan; plaid; winter,,,,,,,,,,,
+SPT_CIV_027,objects/SPT_CIV_027.jpg,SPT_CIV_027.jpg,Vest,dracula clothing,Lee,12/15/25,Black and white stripped vest,victorian; cap sleeves; button-up; bustle; steampunk,,,,,,,,,,,
+SPT_CIV_028,objects/SPT_CIV_028.jpg,SPT_CIV_028.jpg,Vest,,Lee,12/15/25,Black and pink patterned vest,floral; formal; silk; victorian,,,,,,,,,,,
+SPT_CIV_029,objects/SPT_CIV_029.jpg,SPT_CIV_029.jpg,Vest,,Francis,12/15/25,Purple paisley vest,floral; silk; paisley; patterned; vest; purple,,,,,,,,,,,
+SPT_CIV_030,objects/SPT_CIV_030.jpg,SPT_CIV_030.jpg,Vest,,Francis,12/15/25,Green argyle sweatervest,green; knit; patterned; argyle; pink; handmade,,,,,,,,,,,
+SPT_CIV_031,objects/SPT_CIV_031.jpg,SPT_CIV_031.jpg,Vest,,Francis,12/15/25,Green argyle sweatervest,green; knit; lime; patterned; argyle; white; black,,,,,,,,,,,
+SPT_CIV_032,objects/SPT_CIV_032.jpg,SPT_CIV_032.jpg,Vest,H2H,Francis ,12/15/25,Grey argyle sweatervest,grey; argyle; patterned; wool; knit; red; white; gray,,,,,,,,,,,
+SPT_CIV_033,objects/SPT_CIV_033.jpg,SPT_CIV_033.jpg,Vest,Y2M,Francis,12/16/25,Grey zip up vest,grey; green; army; vest; zipup; layer,,,,,,,,,,,
+SPT_CIV_034,objects/SPT_CIV_034.jpg,SPT_CIV_034.jpg,Vest,G&F,Francis,12/16/25,Safety vest (2),Orange; yellow; reflective; thin,,,,,,,,,,,
+SPT_CIV_035,objects/SPT_CIV_035.jpg,SPT_CIV_035.jpg,Vest,Talbots,Lee,12/16/25,Gray argyle sweater vest,argyle; button-up; sweater; patterned; white; blue; pink,,,,,,,,,,,
+SPT_CIV_036,objects/SPT_CIV_036.jpg,SPT_CIV_036.jpg,Vest,bloomingdales,Francis,12/16/25,Blue argyle sweatervest,patterned; knit; blue; red; green; wool,,,,,,,,,,,
+SPT_CIV_037,objects/SPT_CIV_037.jpg,SPT_CIV_037.jpg,Vest,Top Shop,Lee,12/16/25,Black leather cargo vest,biker; leather; vest; black,,,,,,,,,,,
+SPT_CIV_038,objects/SPT_CIV_038.jpg,SPT_CIV_038.jpg,Vest,,Francis,12/16/25,Black and blue waistcoat,floral; patterned; nature; silk,,,,,,,,,,,
+SPT_CIV_039,objects/SPT_CIV_039.jpg,SPT_CIV_039.jpg,Vest,Steam era production,Lee,12/16/25,red circus vest,steam punk; uniform; red; gold,,,,,,,,,,,
+SPT_CIS_002,objects/SPT_CIS_002.jpg,SPT_CIS_002.jpg,Blazer/skirt/top,Kenn Brooks,Francis,12/15/25,Red suit set,red; leather; snakeskin; set,,,,,,,,,,,
+SPT_CIS_003,objects/SPT_CIS_003.jpg,SPT_CIS_003.jpg,Jacket/skirt,Albert Nipon,Lee,12/16/25,Pink floral suit set,pink; floral; office; set; 1980s,,,,,,,,,,,
+SPT_CISH_044,objects/SPT_CISH_044.jpg,SPT_CISH_044.jpg,tank top,Carole Little,Lee,12/15/25,Olive knit tank top,knit; tank top; basic,,,,,,,,,,,
+SPT_CISH_045,objects/SPT_CISH_045.jpg,SPT_CISH_045.jpg,Doublet,,Francis,12/15/25,Black doublet,doublet; black; cotton,,,,,,,,,,,
+SPT_CISH_046,objects/SPT_CISH_046.jpg,SPT_CISH_046.jpg,Doublet,,Francis,12/15/25,Red and blue doublet,red; blue; striped. patterned; doublet,,,,,,,,,,,
+SPT_CISH_047,objects/SPT_CISH_047.jpg,SPT_CISH_047.jpg,Doublet,,Francis,12/15/25,White doublet with black stripes (2),white; black; striped; patterned; doublet,,,,,,,,,,,
+SPT_CISH_048,objects/SPT_CISH_048.jpg,SPT_CISH_048.jpg,Doublet,,Francis,12/15/25,Red paisley doublet,red; doublet; patterened; paisley,,,,,,,,,,,
+SPT_CISH_049,objects/SPT_CISH_049.jpg,SPT_CISH_049.jpg,Doublet,,Francis,12/15/25,Red doublet,red; doublet; sleeves,,,,,,,,,,,
+SPT_CISH_050,objects/SPT_CISH_050.jpg,SPT_CISH_050.jpg,Doublet,,Francis,12/15/25,Beige doublet,beige; doublet; sleeves,,,,,,,,,,,
+SPT_CISH_051,objects/SPT_CISH_051.jpg,SPT_CISH_051.jpg,Sweater,Merona,Lee,12/15/25,Navy sweater,knitted; winter; 2000s; v-neck; long sleeved,,,,,,,,,,,
+SPT_CISH_052,objects/SPT_CISH_052.jpg,SPT_CISH_052.jpg,Doublet,,Francis,12/15/25,Black doublet,floral; black; patterned,,,,,,,,,,,
+SPT_CISH_053,objects/SPT_CISH_053.jpg,SPT_CISH_053.jpg,Sweatshirt,Gildan,Francis,12/15/25,Blue sweatshirt,college; custom,,,,,,,,,,,
+SPT_CISH_054,objects/SPT_CISH_054.jpg,SPT_CISH_054.jpg,Dress shirt,NovaMen,Francis,12/15/25,Blood shirt (5),blood; white; red; shirt; dress shirt,,,,,,,,,,,
+SPT_CISH_055,objects/SPT_CISH_055.jpg,SPT_CISH_055.jpg,blouse,Cider,Lee,12/15/25,Off white sleeveless collared blouse,sleeveless; button-up,,,,,,,,,,,
+SPT_CISH_056,objects/SPT_CISH_056.jpg,SPT_CISH_056.jpg,Doublet,,Francis,12/15/25,Black paisley doublet,black; patterned; paisley; doublet,,,,,,,,,,,
+SPT_CISH_057,objects/SPT_CISH_057.jpg,SPT_CISH_057.jpg,Sweater,Merona,Lee,12/15/25,Yellow sweater,knitted; winter; 2000s; v-neck; long sleeved,,,,,,,,,,,
+SPT_CISH_058,objects/SPT_CISH_058.jpg,SPT_CISH_058.jpg,Doublet,,Francis,12/15/25,Black doublet,black; cotton; doublet,,,,,,,,,,,
+SPT_CISH_059,objects/SPT_CISH_059.jpg,SPT_CISH_059.jpg,Sweater,Mijeong Park,Francis,12/15/25,Grey sleeveless sweater,grey; sleeveless; ribbed; sweater; turtleneck,,,,,,,,,,,
+SPT_CISH_060,objects/SPT_CISH_060.jpg,SPT_CISH_060.jpg,Shirt,Dockers,Francis,12/15/25,White dress shirt,white; dress shirt; button down,,,,,,,,,,,
+SPT_CISH_061,objects/SPT_CISH_061.jpg,SPT_CISH_061.jpg,Shirt,Bergamo NewYork,Francis,12/15/25,Dark blue dress shirt,dark blue; navy; dress shirt; button down,,,,,,,,,,,
+SPT_CISH_062,objects/SPT_CISH_062.jpg,SPT_CISH_062.jpg,Shirt,Geoffrey Beene,Francis,12/15/25,Blue dress shirt,blue; light blue; button down; dress shirt,,,,,,,,,,,
+SPT_CISH_063,objects/SPT_CISH_063.jpg,SPT_CISH_063.jpg,Shirt,Paul Jones,Francis,12/15/25,Purple dress shirt,purple; dress shirt,,,,,,,,,,,
+SPT_CISH_064,objects/SPT_CISH_064.jpg,SPT_CISH_064.jpg,Shirt,haggar,Francis,12/15/25,Purple bishop sleeve shirt,velvet; purple; shirt; long sleeve; bishop sleeve,,,,,,,,,,,
+SPT_CISH_065,objects/SPT_CISH_065.jpg,SPT_CISH_065.jpg,Shirt,Paul Jones,Francis,12/15/25,Black dress shirt,black; dress shirt; button down,,,,,,,,,,,
+SPT_CISH_066,objects/SPT_CISH_066.jpg,SPT_CISH_066.jpg,Shirt,Vatpov,Francis,12/15/25,Patterned short sleeve button up,patterned; white; beige; black; orange; striped; short sleeve; button down,,,,,,,,,,,
+SPT_CISH_067,objects/SPT_CISH_067.jpg,SPT_CISH_067.jpg,Tshirt,Port & Company,Francis,12/15/25,Russian graphic tee,tshirt; black; graphic; anno,,,,,,,,,,,
+SPT_CISH_068,objects/SPT_CISH_068.jpg,SPT_CISH_068.jpg,Tshirt,,Francis,12/15/25,Russian graphic tee,tshirt; black; graphic; anno,,,,,,,,,,,
+SPT_CISH_069,objects/SPT_CISH_069.jpg,SPT_CISH_069.jpg,Shirt,benin,Francis,12/15/25,Black asymmetrical shirt,long sleeve; asymmetrical; polyester,,,,,,,,,,,
+SPT_CISH_070,objects/SPT_CISH_070.jpg,SPT_CISH_070.jpg,Shirt,,Francis,12/15/25,Black and gold tudor shirt,long sleeve; black; gold; slash sleeve; puff sleeve,,,,,,,,,,,
+SPT_CISH_071,objects/SPT_CISH_071.jpg,SPT_CISH_071.jpg,Turtleneck,,Francis,12/15/25,Black turtleneck,long sleeve; black; turtleneck; thin,,,,,,,,,,,
+SPT_CISH_072,objects/SPT_CISH_072.jpg,SPT_CISH_072.jpg,Shirt,NovaMen,Francis,12/15/25,Black textured button up,long sleeve; black; textured; polka dot; patterned; dress shirt,,,,,,,,,,,
+SPT_CISH_073,objects/SPT_CISH_073.jpg,SPT_CISH_073.jpg,Blouse,Ann Taylor Loft,Francis,12/15/25,Black collared blouse,long sleeve; black; blouse; v-neck,,,,,,,,,,,
+SPT_CISH_074,objects/SPT_CISH_074.jpg,SPT_CISH_074.jpg,Shirt,Silhouettes,Francis,12/15/25,Black dress shirt,black; dress shirt; button down,,,,,,,,,,,
+SPT_CISH_075,objects/SPT_CISH_075.jpg,SPT_CISH_075.jpg,Shirt,Alfred Dunner,Francis,12/15/25,Patterned blouse,green; tropical; blouse; ruffles; patterned; long-sleeve,,,,,,,,,,,
+SPT_CISH_076,objects/SPT_CISH_076.jpg,SPT_CISH_076.jpg,Shirt,Coofandy,Francis,12/15/25,Short sleeve striped button up,Striped; gold; blue; short sleeve; silky,,,,,,,,,,,
+SPT_CISH_077,objects/SPT_CISH_077.jpg,SPT_CISH_077.jpg,Shirt,rrrruss,Francis,12/15/25,Brown floral blouse,"brown, patterned, floral; blouse;",,,,,,,,,,,
+SPT_CISH_078,objects/SPT_CISH_078.jpg,SPT_CISH_078.jpg,Corset,Luna Luz,Francis,12/15/25,Pink floral corset top,patterned; floral; pink; green; corset; shirt,,,,,,,,,,,
+SPT_CISH_079,objects/SPT_CISH_079.jpg,SPT_CISH_079.jpg,Shirt,Roaman's,Francis,12/15/25,Red costume shirt,velvet; red; cinch; adjustable; off shoulder; long sleeve,,,,,,,,,,,
+SPT_CISH_080,objects/SPT_CISH_080.jpg,SPT_CISH_080.jpg,Blouse,,Francis,12/15/25,Red striped blouse,neck tie; red; striped; sheer; blouse,,,,,,,,,,,
+SPT_CISH_081,objects/SPT_CISH_081.jpg,SPT_CISH_081.jpg,Shirt,Merona,Francis,12/15/25,Blue dress shirt,blue; light blue; button down; dress shirt,,,,,,,,,,,
+SPT_CISH_082,objects/SPT_CISH_082.jpg,SPT_CISH_082.jpg,Shirt,Cider,Francis,12/15/25,Blue paisley shirt,western; paisley; bandana; dress shirt; blue; white; button up,,,,,,,,,,,
+SPT_CISH_083,objects/SPT_CISH_083.jpg,SPT_CISH_083.jpg,Shirt,Philippe Marques,Francis,12/15/25,Blue 80s shirt,Silk; patterned; knit; shirt; 80s,,,,,,,,,,,
+SPT_CISH_084,objects/SPT_CISH_084.jpg,SPT_CISH_084.jpg,Shirt,lvish,Francis,12/15/25,Hawaiian Shirt,"orange, yellow; tropical; patterned; short sleeve; button up",,,,,,,,,,,
+SPT_CISH_085,objects/SPT_CISH_085.jpg,SPT_CISH_085.jpg,Shirt,alia,Francis,12/15/25,Brown tunic,peplum; brown; beige; long,,,,,,,,,,,
+SPT_CISH_086,objects/SPT_CISH_086.jpg,SPT_CISH_086.jpg,tank top,serenada,Francis,12/15/25,Gold tank top,gold; silk; tank top; thin; scoop back,,,,,,,,,,,
+SPT_CISH_087,objects/SPT_CISH_087.jpg,SPT_CISH_087.jpg,Shirt,escalier,Francis,12/15/25,White blouse with neck tie,white; blouse; neck tie; sheer,,,,,,,,,,,
+SPT_CISH_088,objects/SPT_CISH_088.jpg,SPT_CISH_088.jpg,Shirt,,Francis,12/15/25,Yellow blouse,yellow; white; blouse; button up,,,,,,,,,,,
+SPT_CISH_089,objects/SPT_CISH_089.jpg,SPT_CISH_089.jpg,Shirt,harve Benard,Francis,12/15/25,Brown striped shirt,brown; patterned; striped; button down; blouse,,,,,,,,,,,
+SPT_CISH_090,objects/SPT_CISH_090.jpg,SPT_CISH_090.jpg,Shirt,,Francis,12/15/25,Purple tank top,purple; lilac; tank top; front tie; buttons,,,,,,,,,,,
+SPT_CISH_091,objects/SPT_CISH_091.jpg,SPT_CISH_091.jpg,Tank top,classique entier,Francis,12/15/25,Gold tank top,gold; silk; tank top; thin; spaghetti strap,,,,,,,,,,,
+SPT_CISH_092,objects/SPT_CISH_092.jpg,SPT_CISH_092.jpg,Shirt,Sofi's Stitches,Francis,12/15/25,White medieval blouse,white; neck tie; cotton; sleepwear; who gors there,,,,,,,,,,,
+SPT_CISH_093,objects/SPT_CISH_093.jpg,SPT_CISH_093.jpg,Tshirt,Hanes,Francis,12/15/25,Beige tshirt,beige; tshirt; cotton,,,,,,,,,,,
+SPT_CISH_094,objects/SPT_CISH_094.jpg,SPT_CISH_094.jpg,Turtleneck,,Francis,12/15/25,white sleeveless turtleneck,white; sleeveless; turtleneck; sheer; knit,,,,,,,,,,,
+SPT_CISH_095,objects/SPT_CISH_095.jpg,SPT_CISH_095.jpg,Shirt,amazon essentials,Francis,12/15/25,Patterned short sleeve button up,patterned; short sleeve; button up; white; black,,,,,,,,,,,
+SPT_CISH_096,objects/SPT_CISH_096.jpg,SPT_CISH_096.jpg,Blouse,Herman Geist,Francis,12/15/25,White collared blouse,white; cream; peter pan collar; floral; pleated; blouse,,,,,,,,,,,
+SPT_CISH_097,objects/SPT_CISH_097.jpg,SPT_CISH_097.jpg,Shirt,Dockers,Francis,12/15/25,White blood shirt,dress shirt; white; blood; button down,,,,,,,,,,,
+SPT_CISH_098,objects/SPT_CISH_098.jpg,SPT_CISH_098.jpg,Blouse,Vince,Francis,12/15/25,Brown blouse,blouse; brown,,,,,,,,,,,
+SPT_CISH_099,objects/SPT_CISH_099.jpg,SPT_CISH_099.jpg,Shirt,Say,Francis,12/15/25,Pink poet blouse,poet shirt; pink; cotton; laced,,,,,,,,,,,
+SPT_CISH_100,objects/SPT_CISH_100.jpg,SPT_CISH_100.jpg,Shirt,Amazon essentials,Francis,12/15/25,Blue blood shirt,blue; button up; blood;,,,,,,,,,,,
+SPT_CISH_101,objects/SPT_CISH_101.jpg,SPT_CISH_101.jpg,Blouse,La Chine Classic,Francis,12/15/25,Cream paisley blouse,cream; white; blouse; bell sleeves; ruffle collar; paisley; patterned,,,,,,,,,,,
+SPT_CISH_102,objects/SPT_CISH_102.jpg,SPT_CISH_102.jpg,Blouse,Escalier,Francis,12/15/25,Blue silk blouse,blue; light blue; button down; blouse,,,,,,,,,,,
+SPT_CISH_103,objects/SPT_CISH_103.jpg,SPT_CISH_103.jpg,Shirt,Aeropostale,Francis,12/15/25,White button down,white; dress shirt; button down,,,,,,,,,,,
+SPT_CISH_104,objects/SPT_CISH_104.jpg,SPT_CISH_104.jpg,Shirt,Old Navy,Francis,12/15/25,Green button down,green; dress shirt; button down,,,,,,,,,,,
+SPT_CISH_105,objects/SPT_CISH_105.jpg,SPT_CISH_105.jpg,Shirt,amazon essentials,Francis,12/15/25,White button down,white; dress shirt; button down,,,,,,,,,,,
+SPT_CISH_106,objects/SPT_CISH_106.jpg,SPT_CISH_106.jpg,Tshirt,Van heusen Studio,Francis,12/15/25,White short sleeve button down,pinstripe; short sleeve; white; black hem; black,,,,,,,,,,,
+SPT_CISH_107,objects/SPT_CISH_107.jpg,SPT_CISH_107.jpg,Corset,apostrophe stretch,Francis,12/15/25,White corset top,white; corset; silk; bow; ,,,,,,,,,,,
+SPT_CISH_108,objects/SPT_CISH_108.jpg,SPT_CISH_108.jpg,Shirt,,Francis,12/15/25,White lace top,white; high neck; patterned; lace; sheer,,,,,,,,,,,
+SPT_CISH_109,objects/SPT_CISH_109.jpg,SPT_CISH_109.jpg,Shirt,Amazon Essentials,Francis,12/15/25,Black silk blouse,black; silk; button down; blouse,,,,,,,,,,,
+SPT_CISH_110,objects/SPT_CISH_110.jpg,SPT_CISH_110.jpg,Shirt,Pablo Collection,Francis,12/15/25,Brown paisley blouse,brown; patterned; paisley; floral; button down; blouse,,,,,,,,,,,
+SPT_CISH_111,objects/SPT_CISH_111.jpg,SPT_CISH_111.jpg,Shirt,Calvin Klein,Francis,12/15/25,White button down,white; dress shirt; button down,,,,,,,,,,,
+SPT_CISH_112,objects/SPT_CISH_112.jpg,SPT_CISH_112.jpg,Shirt,dressbarn,Francis,12/15/25,purple sleeveless turtleneck,purple; sleeveless; knit; ribbed; turtleneck,,,,,,,,,,,
+SPT_CISH_113,objects/SPT_CISH_113.jpg,SPT_CISH_113.jpg,Doublet,,Lee,12/16/25,Pink and yellow striped doublet,patterned; medieval; ren faire; cordoroy; fantasy,,,,,,,,,,,
+SPT_CISH_114,objects/SPT_CISH_114.jpg,SPT_CISH_114.jpg,Shirt,Sunnow,Lee,12/16/25,White button-up dress shirt,formal; suit; dress shirt,,,,,,,,,,,
+SPT_CISH_115,objects/SPT_CISH_115.jpg,SPT_CISH_115.jpg,Shirt,Arrow dover,Lee,12/16/25,Off-white striped dress shirt,formal; suit; off white; pin stripe; mens,,,,,,,,,,,
+SPT_CISH_116,objects/SPT_CISH_116.jpg,SPT_CISH_116.jpg,Shirt,dockers,Lee,12/16/25,White button-up dress shirt,formal,,,,,,,,,,,
+SPT_CISH_117,objects/SPT_CISH_117.jpg,SPT_CISH_117.jpg,Shirt,Sunnow,Lee,12/16/25,White button-up dress shirt,formal,,,,,,,,,,,
+SPT_CISH_118,objects/SPT_CISH_118.jpg,SPT_CISH_118.jpg,Shirt,Amazon Essentials,Lee,12/16/25,White button-up dress shirt,formal,,,,,,,,,,,
+SPT_CISH_119,objects/SPT_CISH_119.jpg,SPT_CISH_119.jpg,Tank top,Amazon Essentials,Francis,12/16/25,Black tank top,cotton,,,,,,,,,,,
+SPT_CISH_120,objects/SPT_CISH_120.jpg,SPT_CISH_120.jpg,Blouse,Cofworld,Lee,12/16/25,White floral button-up,floral; short sleeved; collared; dress shirt; pockets,,,,,,,,,,,
+SPT_CISH_121,objects/SPT_CISH_121.jpg,SPT_CISH_121.jpg,Sweater,easel,Francis,12/16/25,Red longsleeve sweater,cotton; knit; dark red,,,,,,,,,,,
+SPT_CISH_122,objects/SPT_CISH_122.jpg,SPT_CISH_122.jpg,Shirt,lomon,Francis,12/16/25,White floral shirt,red; pink; blue; patterned; zipup; Mandarin collar; sheer,,,,,,,,,,,
+SPT_CISH_123,objects/SPT_CISH_123.jpg,SPT_CISH_123.jpg,Shirt,,Francis,12/16/25,Mesh shirt with hood,mesh; see-though; net; hooded; sheer,,,,,,,,,,,
+SPT_CISH_124,objects/SPT_CISH_124.jpg,SPT_CISH_124.jpg,Shirt,Foxcroft,Francis,12/16/25,Patterned button up,black; white; floral; pattern; print; blouse,,,,,,,,,,,
+SPT_CISH_125,objects/SPT_CISH_125.jpg,SPT_CISH_125.jpg,doublet,,Lee,12/16/25,Red brocade doublet,medieval; fantasy; patterned; doublet,,,,,,,,,,,
+SPT_CISH_126,objects/SPT_CISH_126.jpg,SPT_CISH_126.jpg,Shirt,sunnow,Francis,12/16/25,Green short sleeve button up,army green; olive;,,,,,,,,,,,
+SPT_CISH_127,objects/SPT_CISH_127.jpg,SPT_CISH_127.jpg,Shirt,cider,Francis,12/16/25,Patterned silk shirt,front tie; bandana; yellow; white; green; floral; silk; ,,,,,,,,,,,
+SPT_CISH_128,objects/SPT_CISH_128.jpg,SPT_CISH_128.jpg,Shirt,H&M,Francis,12/16/25,Blue peplum top,floral; patterned; formal; blue; black,,,,,,,,,,,
+SPT_CISH_129,objects/SPT_CISH_129.jpg,SPT_CISH_129.jpg,Shirt,Nova Men,Lee,12/16/25,blood stained button-up,blood; white; red; shirt; dress shirt; long sleeved,,,,,,,,,,,
+SPT_CISH_130,objects/SPT_CISH_130.jpg,SPT_CISH_130.jpg,Shirt,David Peet,Francis,12/16/25,Button up 80s shirt,Teal; pink; black; sweatshirt,,,,,,,,,,,
+SPT_CISH_131,objects/SPT_CISH_131.jpg,SPT_CISH_131.jpg,Shirt,First class,Francis,12/16/25,Navy security polo,blue; yellow; short sleeve,,,,,,,,,,,
+SPT_CISH_132,objects/SPT_CISH_132.jpg,SPT_CISH_132.jpg,Shirt,,Lee,12/16/25,camo army shirt,army; camo; military; fatigues; uniform; long sleeved,,,,,,,,,,,
+SPT_CISH_133,objects/SPT_CISH_133.jpg,SPT_CISH_133.jpg,Blouse,,Lee,12/16/25,Green silk tie crop top,collared; cropped; green; silk; long sleeved,,,,,,,,,,,
+SPT_CISH_134,objects/SPT_CISH_134.jpg,SPT_CISH_134.jpg,Shirt,,Lee,12/16/25,camo army shirt,army; camo; military; fatigues; uniform; long sleeved,,,,,,,,,,,
+SPT_CISH_135,objects/SPT_CISH_135.jpg,SPT_CISH_135.jpg,Shirt,,Lee,12/16/25,camo army shirt,army; camo; military; fatigues; uniform; long sleeved,,,,,,,,,,,
+SPT_CISH_136,objects/SPT_CISH_136.jpg,SPT_CISH_136.jpg,Shirt,,Lee,12/16/25,Khaki button-up,short sleeved; uniform; khaki; tan; collared,,,,,,,,,,,
+SPT_CISH_137,objects/SPT_CISH_137.jpg,SPT_CISH_137.jpg,Shirt,Lee,Lee,12/16/25,Purple button-up,purple; dress shirt; button-up; collared; long sleeved,,,,,,,,,,,
+SPT_CISH_138,objects/SPT_CISH_138.jpg,SPT_CISH_138.jpg,shirt,Lee,Lee,12/16/25,womens purple button-up,womens; purple; dress shirt,,,,,,,,,,,
+SPT_CISH_139,objects/SPT_CISH_139.jpg,SPT_CISH_139.jpg,shirt,doublju,Lee,12/16/25,white polka-dot button-up,polka-dot; patterned; collared; long sleeved,,,,,,,,,,,
+SPT_CISH_140,objects/SPT_CISH_140.jpg,SPT_CISH_140.jpg,shirt,doublju,Lee,12/16/25,womens red button-up,red; button-up; collared; long sleeved; formal; womens,,,,,,,,,,,
+SPT_CISH_141,objects/SPT_CISH_141.jpg,SPT_CISH_141.jpg,shirt,amazon essentials,Lee,12/16/25,white button-up x3,white; collared; button-up; dress shirt,,,,,,,,,,,
+SPT_CISH_142,objects/SPT_CISH_142.jpg,SPT_CISH_142.jpg,blouse,talbots,Lee,12/16/25,white button-up with ruffled collar and sleeves,ruffs; ruffled; white; dress shirt; womens; long sleeved; ,,,,,,,,,,,
+SPT_CISH_143,objects/SPT_CISH_143.jpg,SPT_CISH_143.jpg,shirt,dockers,Lee,12/16/25,white button-up,white; button-up; formal; dress shirt,,,,,,,,,,,
+SPT_CISH_144,objects/SPT_CISH_144.jpg,SPT_CISH_144.jpg,shirt,soft business,Lee,12/16/25,white button-up,white; button-up; formal; dress shirt,,,,,,,,,,,
+SPT_CISH_145,objects/SPT_CISH_145.jpg,SPT_CISH_145.jpg,shirt,,Lee,12/16/25,Black tudor-style shirt with red sleeve cutouts,historical; shakespeare; black; red; collared; long sleeved,,,,,,,,,,,
+SPT_CIB_026,objects/SPT_CIB_026.jpg,SPT_CIB_026.jpg,Blazer,Beninos,Francis,12/15/25,Black women's blazer,black; women's; blazer,,,,,,,,,,,
+SPT_CIB_027,objects/SPT_CIB_027.jpg,SPT_CIB_027.jpg,Jacket,Agnes Orinda,Francis,12/15/25,Green bomber jacket,green; black; bomber; jacket; silk,,,,,,,,,,,
+SPT_CIB_028,objects/SPT_CIB_028.jpg,SPT_CIB_028.jpg,Blazer,New York and Company,Francis,12/15/25,Grey pinstripe women's blazer,grey; pinstripe; blazer; women's,,,,,,,,,,,
+SPT_CIB_029,objects/SPT_CIB_029.jpg,SPT_CIB_029.jpg,Blazer,Ja Sung,Francis,12/15/25,Blue blazer,blue; blazer; light blue; cotton,,,,,,,,,,,
+SPT_CIB_030,objects/SPT_CIB_030.jpg,SPT_CIB_030.jpg,Blazer,Sag Harbor,Francis,12/15/25,Red blazer,red; blazer; cotton; women's,,,,,,,,,,,
+SPT_CIB_031,objects/SPT_CIB_031.jpg,SPT_CIB_031.jpg,Sportcoat,Nick Catalano,Francis,12/15/25,Grey pinstripe sport coat,grey; wool; ppinstripe; black,,,,,,,,,,,
+SPT_CIB_032,objects/SPT_CIB_032.jpg,SPT_CIB_032.jpg,Blazer,Cloudstyle,Francis,12/15/25,Black blazer,black; blazer,,,,,,,,,,,
+SPT_CIB_033,objects/SPT_CIB_033.jpg,SPT_CIB_033.jpg,Blazer,Gioberti,Francis,12/15/25,Grey blazer,grey; blazer; women's,,,,,,,,,,,
+SPT_CIB_034,objects/SPT_CIB_034.jpg,SPT_CIB_034.jpg,Blazer,,Francis,12/15/25,Black school blazer,black; school; college; gold; embroidery,,,,,,,,,,,
+SPT_CIB_035,objects/SPT_CIB_035.jpg,SPT_CIB_035.jpg,Blazer,Stafford,Francis,12/15/25,Navy blazer,navy; blazer,,,,,,,,,,,
+SPT_CIB_036,objects/SPT_CIB_036.jpg,SPT_CIB_036.jpg,Blazer,Jules Pitch,Francis,12/15/25,Navy wool blazer,navy; blazer; wool,,,,,,,,,,,
+SPT_CIB_037,objects/SPT_CIB_037.jpg,SPT_CIB_037.jpg,Blazer,B&G Philadelphia,Francis,12/15/25,Brown and green plaid blazer,wool; plaid; blazer; brown; green,,,,,,,,,,,
+SPT_CIB_038,objects/SPT_CIB_038.jpg,SPT_CIB_038.jpg,Blazer,,Francis,12/15/25,Black blazer with unicorn liner,black; women's; red buttons; lined,,,,,,,,,,,
+SPT_CIB_039,objects/SPT_CIB_039.jpg,SPT_CIB_039.jpg,Blazer,Calvin Klein,Francis,12/15/25,Grey blazer,blazer; grey; dark grey,,,,,,,,,,,
+SPT_CIB_040,objects/SPT_CIB_040.jpg,SPT_CIB_040.jpg,Blazer,YFFushi,Francis,12/15/25,White blazer,polyester; blazer; white; wedding,,,,,,,,,,,
+SPT_CIB_041,objects/SPT_CIB_041.jpg,SPT_CIB_041.jpg,Blazer,,Francis,12/15/25,Beige blazer,tan; beige; camel; blazer,,,,,,,,,,,
+SPT_CIB_042,objects/SPT_CIB_042.jpg,SPT_CIB_042.jpg,Blazer,,Francis,12/15/25,Navy pinstripe blazer,navy; blazer; wide lapels,,,,,,,,,,,
+SPT_CIB_043,objects/SPT_CIB_043.jpg,SPT_CIB_043.jpg,Tuxedo Jacket,,Francis,12/15/25,Black tuxedo jacket,black; silky; wide lapels; tuxedo,,,,,,,,,,,
+SPT_CIB_044,objects/SPT_CIB_044.jpg,SPT_CIB_044.jpg,Blazer,Noak,Francis,12/15/25,Purple blazer,purple; wool; blazer,,,,,,,,,,,
+SPT_CIB_045,objects/SPT_CIB_045.jpg,SPT_CIB_045.jpg,Blazer,Asos,Lee cheeseman,12/15/25,Green blazer,green; blazer; single breasted,,,,,,,,,,,
+SPT_CIB_046,objects/SPT_CIB_046.jpg,SPT_CIB_046.jpg,Cardigan,Merokeety,Francis,12/15/25,Orange cardigan,cable knit; knit; cardigan; orange,,,,,,,,,,,
+SPT_CIB_047,objects/SPT_CIB_047.jpg,SPT_CIB_047.jpg,Blazer,Teeno,Francis,12/15/25,Black women's blazer,black; women's blazer; wide lapels,,,,,,,,,,,
+SPT_CIB_048,objects/SPT_CIB_048.jpg,SPT_CIB_048.jpg,Sportcoat,harve bernard,Francis,12/15/25,Grey wool sport coat,grey; wool; jacket; sport coat; ,,,,,,,,,,,
+SPT_CIB_049,objects/SPT_CIB_049.jpg,SPT_CIB_049.jpg,Blazer,Frenchi,Francis,12/15/25,red blazer,red; blazer; women's,,,,,,,,,,,
+SPT_CIB_050,objects/SPT_CIB_050.jpg,SPT_CIB_050.jpg,Cardigan,All Saints,Francis,12/15/25,grey cardigan,long; cardigan; knit; grey,,,,,,,,,,,
+SPT_CIB_051,objects/SPT_CIB_051.jpg,SPT_CIB_051.jpg,Blazer,Nasty Gal,Francis,12/16/25,cropped white blazer,tuxedo; cropped; formal; cream; white; wide lapels,,,,,,,,,,,
+SPT_CIB_052,objects/SPT_CIB_052.jpg,SPT_CIB_052.jpg,Blazer,Erin,Francis,12/16/25,Multicolored blazer,red; pink; blue; green; white; black; patterned; polka dot; zebra stripe; garish; clown,,,,,,,,,,,
+SPT_CIB_053,objects/SPT_CIB_053.jpg,SPT_CIB_053.jpg,Tuxedo Jacket,Jos a Bank,Francis,12/16/25,Black tuxedo jacket,black; tuxedo; jacket; formal,,,,,,,,,,,
+SPT_CIB_054,objects/SPT_CIB_054.jpg,SPT_CIB_054.jpg,Blazer,Beninos,Francis,12/16/25,White tuxedo jacket,formal; wedding;,,,,,,,,,,,
+SPT_CIB_055,objects/SPT_CIB_055.jpg,SPT_CIB_055.jpg,Blazer,,Lee cheeseman,12/16/25,Brown tweed blazer,brown; tweed; formal,,,,,,,,,,,
+SPT_CIB_056,objects/SPT_CIB_056.jpg,SPT_CIB_056.jpg,Blazer,JG Hook,Francis,12/16/25,Checkered multicolored blazer,red; green; yellow; teal; jacket; patterned; plaid,,,,,,,,,,,
+SPT_CIB_057,objects/SPT_CIB_057.jpg,SPT_CIB_057.jpg,Blazer,,Francis,12/16/25,Plaid wool blazer,gray; white; blue; patterned; wool; women's,,,,,,,,,,,
+SPT_CIB_058,objects/SPT_CIB_058.jpg,SPT_CIB_058.jpg,Blazer,,Francis,12/16/25,Black brocade blazer,cropped; paisley; print; patterned,,,,,,,,,,,
+SPT_CIB_059,objects/SPT_CIB_059.jpg,SPT_CIB_059.jpg,Cardigan,August Silk,Francis,12/16/25,Blue knit cardigan,light blue; silk,,,,,,,,,,,
+SPT_CIB_060,objects/SPT_CIB_060.jpg,SPT_CIB_060.jpg,Blazer,,Francis,12/16/25,Cropped military jacket,blue; rouge; wool; wide lapels,,,,,,,,,,,
+SPT_CIB_061,objects/SPT_CIB_061.jpg,SPT_CIB_061.jpg,Blazer,Miss Blush,Francis,12/16/25,White and black striped blazer,open front; polyester; patterned,,,,,,,,,,,
+SPT_CIB_062,objects/SPT_CIB_062.jpg,SPT_CIB_062.jpg,Blazer,RRoots,Lee cheeseman,12/16/25,Olive blazer,olive; plain; blazer; formal,,,,,,,,,,,
+SPT_CIB_063,objects/SPT_CIB_063.jpg,SPT_CIB_063.jpg,Blazer,Awesome wear,Lee,12/16/25,Green womens blazer,womens; cropped; blazer; coat,,,,,,,,,,,
+SPT_CIB_064,objects/SPT_CIB_064.jpg,SPT_CIB_064.jpg,Blazer,Le Suit,Lee,12/16/25,Multicolored houndstooth blazer,multicolor; pink; blue; green; black; patterned; houndstooth; blazer,,,,,,,,,,,
+SPT_CIB_065,objects/SPT_CIB_065.jpg,SPT_CIB_065.jpg,Blazer,Mignon,Lee,12/16/25,red and black cropped blazer with beaded lapels,cropped; red; black; patterned; long sleeved,,,,,,,,,,,
+SPT_CIB_066,objects/SPT_CIB_066.jpg,SPT_CIB_066.jpg,Blazer,klu,Lee,12/16/25,navy cropped military jacket,cropped; military; collared; long sleeved; navy; wool,,,,,,,,,,,
+SPT_CIB_067,objects/SPT_CIB_067.jpg,SPT_CIB_067.jpg,Tuxedo Jacket,Jos A bank,Lee,12/16/25,Black tuxedo jacket,tuxedo; blazer; suit; set,,,,,,,,,,,
+SPT_CIB_068,objects/SPT_CIB_068.jpg,SPT_CIB_068.jpg,blazer,trend,Lee,12/16/25,black striped blazer,blazer; black; striped; dinner jacket,,,,,,,,,,,
+SPT_CIB_069,objects/SPT_CIB_069.jpg,SPT_CIB_069.jpg,blazer,giogio cerruti,Lee,12/16/25,maroon blazer,blazer; plain; maroon; red,,,,,,,,,,,
+SPT_CIB_070,objects/SPT_CIB_070.jpg,SPT_CIB_070.jpg,Sportcoat,,Lee,12/16/25,red and gray patterned sport coat,patterned; gray; grey; red; velvet; multicolored; sportcoat,,,,,,,,,,,
+SPT_CIP_052,objects/SPT_CIP_052.jpg,SPT_CIP_052.jpg,Slacks,Unknown,Lee Cheeseman,12/15/25,Navy pinstriped pants,Pinstriped; dress pants,,,,,,,,,,,
+SPT_CIP_053,objects/SPT_CIP_053.jpg,SPT_CIP_053.jpg,Breeches,,Francis,12/15/25,Black short breeches,Spanish breeches;,,,,,,,,,,,
+SPT_CIP_054,objects/SPT_CIP_054.jpg,SPT_CIP_054.jpg,Slacks,Uniqlo,Lee Cheeseman,12/15/25,Black dress pants,black; slakcs; dress pants,,,,,,,,,,,
+SPT_CIP_055,objects/SPT_CIP_055.jpg,SPT_CIP_055.jpg,Slacks,Polo,Lee Cheeseman,12/15/25,Tan cordoroy pants,dress pants; cordoroy,,,,,,,,,,,
+SPT_CIP_056,objects/SPT_CIP_056.jpg,SPT_CIP_056.jpg,Slacks,,Lee Cheeseman,12/15/25,navy dress pants,slacks; dress pants; suit,,,,,,,,,,,
+SPT_CIP_057,objects/SPT_CIP_057.jpg,SPT_CIP_057.jpg,Slacks,Amazon Essentials,Lee Cheeseman,12/15/25,Black dress pants,black; dress pants; slacks,,,,,,,,,,,
+SPT_CIP_058,objects/SPT_CIP_058.jpg,SPT_CIP_058.jpg,Slacks,Giovanni Uomo,Lee Cheeseman,12/15/25,Gray dress pants,gray; grey; slacks,,,,,,,,,,,
+SPT_CIP_059,objects/SPT_CIP_059.jpg,SPT_CIP_059.jpg,Slacks,Louis Raphael,Francis,12/15/25,Gray dress pants,gray; grey; slacks,,,,,,,,,,,
+SPT_CIP_060,objects/SPT_CIP_060.jpg,SPT_CIP_060.jpg,Slacks,Calvin Klein,Francis,12/15/25,Black dress pants,Black; slacks; dress pants,,,,,,,,,,,
+SPT_CIP_061,objects/SPT_CIP_061.jpg,SPT_CIP_061.jpg,Slacks,Old Navy,Francis,12/15/25,Brown courderoy pants,brown; corderoy; slacks; loose fit,,,,,,,,,,,
+SPT_CIP_062,objects/SPT_CIP_062.jpg,SPT_CIP_062.jpg,Dress Pants,Jos A Bank,Francis,12/16/25,Black dress pants,black; dress pants; formal,,,,,,,,,,,
+SPT_CIP_063,objects/SPT_CIP_063.jpg,SPT_CIP_063.jpg,Slacks,Amanda and Chelsea,Lee Cheeseman,12/16/25,Black dress pants,black; stretchy; formal,,,,,,,,,,,
+SPT_CIP_064,objects/SPT_CIP_064.jpg,SPT_CIP_064.jpg,Slacks,Dickies,Francis,12/16/25,Khaki slacks,brown; tan; slim fit; cotton,,,,,,,,,,,
+SPT_CIP_065,objects/SPT_CIP_065.jpg,SPT_CIP_065.jpg,Slacks,Giorgio Cerruti,Lee Cheeseman,12/16/25,Maroon dress pants,formal; slacks; plain; red; maroon,,,,,,,,,,,
+SPT_CIP_066,objects/SPT_CIP_066.jpg,SPT_CIP_066.jpg,Slacks,Coldwater Creek,Lee Cheeseman,12/16/25,off-white striped dress pants,formal; slacks; off-white; striped; patterned,,,,,,,,,,,
+SPT_CIP_067,objects/SPT_CIP_067.jpg,SPT_CIP_067.jpg,Slacks,Claiborne,Lee Cheeseman,12/16/25,Olive dress pants,olive; slacks; formal,,,,,,,,,,,
+SPT_CIP_068,objects/SPT_CIP_068.jpg,SPT_CIP_068.jpg,Pants,Cider,Francis,12/16/25,Patterned silk pants,bandana; paisley; yellow; green; white; silk,,,,,,,,,,,
+SPT_CIP_069,objects/SPT_CIP_069.jpg,SPT_CIP_069.jpg,Slacks,Apt 9,Lee Cheeseman,12/16/25,Gray dress pants,gray; grey; slacks,,,,,,,,,,,
+SPT_CIP_070,objects/SPT_CIP_070.jpg,SPT_CIP_070.jpg,Pants,,Francis,12/16/25,Green elastic pants,patterned; 70s; organic; elastic; adjustable; pants; wideleg,,,,,,,,,,,
+SPT_CIP_071,objects/SPT_CIP_071.jpg,SPT_CIP_071.jpg,sweatpants,graphics apparel,Lee Cheeseman,12/16/25,black velvet sweatpants,athletic; black; velvet; y2k,,,,,,,,,,,
+SPT_CIP_072,objects/SPT_CIP_072.jpg,SPT_CIP_072.jpg,Jeans,Rustler,Lee Cheeseman,12/16/25,black jeans,jeans; denim; casual; black,,,,,,,,,,,
+SPT_CID_034,objects/SPT_CID_034.jpg,SPT_CID_034.jpg,Dress,Sue Sherry,Lee,12/15/25,Navy collared maxi day-dress,dress; maxi; 1940s; long sleeved; buttons,,,,,,,,,,,
+SPT_CID_035,objects/SPT_CID_035.jpg,SPT_CID_035.jpg,Dress,Cai dieNu,Lee,12/15/25,Green maxi day dress,tie; 1960s; tie; short sleeved; plain; green,,,,,,,,,,,
+SPT_CID_036,objects/SPT_CID_036.jpg,SPT_CID_036.jpg,Dress,,Lee,12/15/25,Yellow floral maxi dress,floral; sleeveless; cutout; train,,,,,,,,,,,
+SPT_CID_037,objects/SPT_CID_037.jpg,SPT_CID_037.jpg,Dress,,Lee,12/15/25,Purple floral maxi dress,floral; sleeveless; cutout; train; purple,,,,,,,,,,,
+SPT_CID_038,objects/SPT_CID_038.jpg,SPT_CID_038.jpg,Dress,P Gold,Francis,12/15/25,Grey sweater dress,,,,,,,,,,,,
+SPT_CID_039,objects/SPT_CID_039.jpg,SPT_CID_039.jpg,Dress,Amazon Essentials,Lee,12/15/25,Black maxi shift dress,maxi; plain; shift; sleeveless,,,,,,,,,,,
+SPT_CID_040,objects/SPT_CID_040.jpg,SPT_CID_040.jpg,Dress,,Lee,12/15/25,White floral mini sundress,floral; tie back; sleeveless; cutout; sundress; coachella,,,,,,,,,,,
+SPT_CID_041,objects/SPT_CID_041.jpg,SPT_CID_041.jpg,Dress,Dharma Trading Co,Francis,12/15/25,Grey hankerchief dress,gray; hankerchief; maxi,,,,,,,,,,,
+SPT_CID_042,objects/SPT_CID_042.jpg,SPT_CID_042.jpg,dress,,Lee,12/15/25,maxi lace white wedding dress,long sleeved; wedding; lace; white; silk; 1920s; flapper; shift; modest,,,,,,,,,,,
+SPT_CID_043,objects/SPT_CID_043.jpg,SPT_CID_043.jpg,dress,Coldwater Creek,Lee,12/15/25,White floral maxi dress,short sleeved; wedding; 1980s; v-neck,,,,,,,,,,,
+SPT_CID_044,objects/SPT_CID_044.jpg,SPT_CID_044.jpg,dress,Anna-Kaci,Lee,12/15/25,White floral maxi sun dress,boho; summer; beach; wedding; puff sleeve; lace,,,,,,,,,,,
+SPT_CID_045,objects/SPT_CID_045.jpg,SPT_CID_045.jpg,dress,,Lee,12/15/25,White floral maxi dress,boho; long sleeved; wedding; 1970s; lace; flounce sleeve; v-neck,,,,,,,,,,,
+SPT_CID_046,objects/SPT_CID_046.jpg,SPT_CID_046.jpg,dress,Forever 21,Lee,12/15/25,white and gray striped mini day dress,summer; sleevless; collared; button-up; beach,,,,,,,,,,,
+SPT_CID_047,objects/SPT_CID_047.jpg,SPT_CID_047.jpg,dress,Victoria's Secret,Lee,12/15/25,Pink floral slip dress,lingerie; spaghetti strap; see-through; silk; pajama,,,,,,,,,,,
+SPT_CID_048,objects/SPT_CID_048.jpg,SPT_CID_048.jpg,dress,Nasty girl,Lee,12/15/25,Hot pink floral maxi dress,see-through; lace; sleeveless; ,,,,,,,,,,,
+SPT_CID_049,objects/SPT_CID_049.jpg,SPT_CID_049.jpg,dress,Oleg Cassini,Lee,12/15/25,Red beaded maxi formal dress,black tie; sleeveless; floral; gala; floor length,,,,,,,,,,,
+SPT_CID_050,objects/SPT_CID_050.jpg,SPT_CID_050.jpg,dress,Bares,Lee,12/15/25,Maroon maxi peasant dress,Medieval; peasant; tie; short sleeved; plain,,,,,,,,,,,
+SPT_CID_051,objects/SPT_CID_051.jpg,SPT_CID_051.jpg,dress,Naggoo,Lee,12/15/25,Green midi business dress,office; business casual; sleeveless; v-neck,,,,,,,,,,,
+SPT_CID_052,objects/SPT_CID_052.jpg,SPT_CID_052.jpg,dress,Allegra,Lee,12/15/25,Yellow floral mini dress,wrap dress; petal sleeve; patterned; summer,,,,,,,,,,,
+SPT_CID_053,objects/SPT_CID_053.jpg,SPT_CID_053.jpg,dress,Rubie's,Lee,12/15/25,Blue velvet princess dress w/ gold trim,blue; princess; royal; fantasy; costume; maxi,,,,,,,,,,,
+SPT_CID_054,objects/SPT_CID_054.jpg,SPT_CID_054.jpg,dress,California Costume,Lee,12/15/25,Brown and green tavern wench maxi dress (2),October fest; ren faire; fantasy; cold shoulder; costume; maxi,,,,,,,,,,,
+SPT_CID_056,objects/SPT_CID_056.jpg,SPT_CID_056.jpg,dress,,Lee,12/15/25,Mint bird midi dress,Collared; 1950s; patterned,,,,,,,,,,,
+SPT_CID_057,objects/SPT_CID_057.jpg,SPT_CID_057.jpg,dress,Bedford Fair,Lee,12/15/25,blue and green color block dress,1960s; geometric; multi color; short sleeved,,,,,,,,,,,
+SPT_CID_058,objects/SPT_CID_058.jpg,SPT_CID_058.jpg,dress,Liz Clairborne,Lee,12/15/25,Navy button-up dress,short sleeved; maxi; mandarin collar,,,,,,,,,,,
+SPT_CID_059,objects/SPT_CID_059.jpg,SPT_CID_059.jpg,dress,,Lee,12/15/25,Blue beaded flapper dress,fringe; flapper; 1920s; tank sleeves,,,,,,,,,,,
+SPT_CID_060,objects/SPT_CID_060.jpg,SPT_CID_060.jpg,dress,,Lee,12/15/25,Blue cordoroy button-up mini dress,v-neck; pockets; cordoroy,,,,,,,,,,,
+SPT_CID_061,objects/SPT_CID_061.jpg,SPT_CID_061.jpg,dress,,Lee,12/15/25,Blue floor length pleated dress,plain; high collar; sleeveless; greek,,,,,,,,,,,
+SPT_CID_062,objects/SPT_CID_062.jpg,SPT_CID_062.jpg,dress,Ekouaer,Lee,12/15/25,Gray lacey slip dress,pajama; gray; grey; spaghetti strap; lingerie; midi,,,,,,,,,,,
+SPT_CID_063,objects/SPT_CID_063.jpg,SPT_CID_063.jpg,dress,,Lee,12/15/25,plain brown floor length smock dress (2),plain; brown; maxi; basic; long sleeved,,,,,,,,,,,
+SPT_CID_064,objects/SPT_CID_064.jpg,SPT_CID_064.jpg,dress,,Lee,12/15/25,Blain brown floor length smock dress with pattered collar,brown; plain; basic; hippie,,,,,,,,,,,
+SPT_CID_066,objects/SPT_CID_066.jpg,SPT_CID_066.jpg,dress,,Lee,12/15/25,Brown princess dress with black lace bust,Maxi; princess; fantasy; costume; ren faire; empire waist,,,,,,,,,,,
+SPT_CID_067,objects/SPT_CID_067.jpg,SPT_CID_067.jpg,dress,Liz Clairborne,Lee,12/15/25,black button-up dress,short sleeved; maxi; mandarin collar,,,,,,,,,,,
+SPT_CID_068,objects/SPT_CID_068.jpg,SPT_CID_068.jpg,dress,,Lee,12/15/25,plain black floor length smock dress,plain; black; maxi; basic; long sleeved; nun,,,,,,,,,,,
+SPT_CID_069,objects/SPT_CID_069.jpg,SPT_CID_069.jpg,dress,Chicwe,Lee,12/15/25,Black and white midi dress,office; sleeveless; pleated,,,,,,,,,,,
+SPT_CID_070,objects/SPT_CID_070.jpg,SPT_CID_070.jpg,dress,dialogue,Lee,12/15/25,black basic dress,office,,,,,,,,,,,
+SPT_CID_071,objects/SPT_CID_071.jpg,SPT_CID_071.jpg,dress,Laundry,Lee,12/15/25,Black basic midi dress with mesh sleeves,mesh; long sleeved; plain; office,,,,,,,,,,,
+SPT_CID_072,objects/SPT_CID_072.jpg,SPT_CID_072.jpg,dress,BB Collections,Lee,12/15/25,Black and gold cocktail dress,"pleated, v-neck;3/4 sleeves; shoulder pads; backless",,,,,,,,,,,
+SPT_CID_073,objects/SPT_CID_073.jpg,SPT_CID_073.jpg,dress,Chettab,Lee,12/15/25,Black midi dress,office,,,,,,,,,,,
+SPT_CID_074,objects/SPT_CID_074.jpg,SPT_CID_074.jpg,dress,Windlass,Lee,12/15/25,Black floor length smock dress,Peasant; long; plain; long sleeved,,,,,,,,,,,
+SPT_CID_075,objects/SPT_CID_075.jpg,SPT_CID_075.jpg,dress,ECI,Lee,12/15/25,tan patterned chiffon maxi dress,floral; beaded; tank sleeved; patterned; ,,,,,,,,,,,
+SPT_CID_076,objects/SPT_CID_076.jpg,SPT_CID_076.jpg,dress,Nemidor,Lee,12/15/25,Navy wrap dress,short sleeved; low neck; casual,,,,,,,,,,,
+SPT_CID_077,objects/SPT_CID_077.jpg,SPT_CID_077.jpg,dress,B darlin,Lee,12/15/25,Pink pajama dress,silk; v-neck; midi; short sleeved; sabrina carpenter,,,,,,,,,,,
+SPT_CID_078,objects/SPT_CID_078.jpg,SPT_CID_078.jpg,dress,hanyi Fushi,Lee,12/15/25,White maxi nightgown,pajama; white; nightgown; long sleeved,,,,,,,,,,,
+SPT_CID_079,objects/SPT_CID_079.jpg,SPT_CID_079.jpg,dress,Mignon,Lee,12/15/25,Red gown with black splatter,formal; gown; sleeveless; vampire,,,,,,,,,,,
+SPT_CID_080,objects/SPT_CID_080.jpg,SPT_CID_080.jpg,dress,target,Francis,12/15/25,Black floral dress,formal; gown; dress; roses; floral; silk; maxi,,,,,,,,,,,
+SPT_CID_081,objects/SPT_CID_081.jpg,SPT_CID_081.jpg,dress,Tessuto,Francis,12/15/25,blue floral dress,midi; dress; floral; patterned; blue; black,,,,,,,,,,,
+SPT_CID_082,objects/SPT_CID_082.jpg,SPT_CID_082.jpg,dress,,Francis,12/15/25,green slip dress,green; silk; lace; open back,,,,,,,,,,,
+SPT_CID_083,objects/SPT_CID_083.jpg,SPT_CID_083.jpg,dress,lingerie cicque,Francis,12/15/25,green slip dress,green; silk; lace; ,,,,,,,,,,,
+SPT_CID_084,objects/SPT_CID_084.jpg,SPT_CID_084.jpg,dress,,Francis,12/15/25,Black tudor dress,black; laced sleeves; cotton; maxi,,,,,,,,,,,
+SPT_CID_085,objects/SPT_CID_085.jpg,SPT_CID_085.jpg,dress,,Francis,12/15/25,red tudor dress,red; laced front; embroidery,,,,,,,,,,,
+SPT_CID_086,objects/SPT_CID_086.jpg,SPT_CID_086.jpg,dress,,Francis,12/15/25,blue midi dress,blue; sheer; long sleeve; midi; bell sleeve; dress,,,,,,,,,,,
+SPT_CID_087,objects/SPT_CID_087.jpg,SPT_CID_087.jpg,dress,Wilroy Traveller,Francis,12/15/25,pink midi dress,pink; dress;ruffle; floral; ,,,,,,,,,,,
+SPT_CID_088,objects/SPT_CID_088.jpg,SPT_CID_088.jpg,dress,Dressy Star,Francis,12/15/25,black polka dot dress,midi; patterned; polka dot; black; white; a line,,,,,,,,,,,
+SPT_CID_089,objects/SPT_CID_089.jpg,SPT_CID_089.jpg,dress,Studio M,Francis,12/15/25,black mini dress,black; white; dress; mini; belt,,,,,,,,,,,
+SPT_CID_090,objects/SPT_CID_090.jpg,SPT_CID_090.jpg,dress,Banana Republic,Francis,12/15/25,black mini dress,wool; mini; banana republic,,,,,,,,,,,
+SPT_CID_091,objects/SPT_CID_091.jpg,SPT_CID_091.jpg,dress,Dharma Trading Co,Francis,12/16/25,black mini dress,front tie; spaghetti strap,,,,,,,,,,,
+SPT_CID_092,objects/SPT_CID_092.jpg,SPT_CID_092.jpg,dress,,Lee,12/16/25,Tan collared day dress,short sleeved; casual; tan; plain; pockets,,,,,,,,,,,
+SPT_CID_093,objects/SPT_CID_093.jpg,SPT_CID_093.jpg,dress,Lerros,Lee,12/16/25,Gray wool midi dress,grey; gray; office; tank sleeves,,,,,,,,,,,
+SPT_CID_094,objects/SPT_CID_094.jpg,SPT_CID_094.jpg,dress,fe die,Lee,12/16/25,Plain black midi dress,tank sleeves; tie; plain; black; funeral,,,,,,,,,,,
+SPT_CID_095,objects/SPT_CID_095.jpg,SPT_CID_095.jpg,dress,On 34th,Francis,12/16/25,Blue polka dot dress,patterned; maxi; elastic; blood; cheetah print,,,,,,,,,,,
+SPT_CID_096,objects/SPT_CID_096.jpg,SPT_CID_096.jpg,dress,Dharma Trading Co,Francis,12/16/25,White blood dress,midi; simple; v neck,,,,,,,,,,,
+SPT_CID_097,objects/SPT_CID_097.jpg,SPT_CID_097.jpg,dress,fe die,Lee,12/16/25,Black and white floral midi dress,white; floral; 1950s; patterned; midi; tank sleeves,,,,,,,,,,,
+SPT_CID_098,objects/SPT_CID_098.jpg,SPT_CID_098.jpg,dress,Pinup art,Lee,12/16/25,pale blue plain maxi dress,plain; maxi; long sleeved; lantern sleeves; ,,,,,,,,,,,
+SPT_CID_099,objects/SPT_CID_099.jpg,SPT_CID_099.jpg,dress,Cachet,Lee,12/16/25,black floor length velvet dress with fur collar,black; velvet; winter; off-the-shoulder; long sleeved; fur; floor length; gown; formal,,,,,,,,,,,
+SPT_CID_100,objects/SPT_CID_100.jpg,SPT_CID_100.jpg,dress,Betsy and Adam,Lee,12/16/25,Black floor length gown with white cutout,black; gown; floor length; white; high collar; spaghetti straps; formal,,,,,,,,,,,
+SPT_CIC_016,objects/SPT_CIC_016.jpg,SPT_CIC_016.jpg,Coat,,Francis,12/15/25,Beige wool coat,wool; camel; beige; coat,,,,,,,,,,,
+SPT_CIC_017,objects/SPT_CIC_017.jpg,SPT_CIC_017.jpg,Coat,Stafford,Francis,12/15/25,Beige wool coat,wool; camel; beige; coat,,,,,,,,,,,
+SPT_CIC_018,objects/SPT_CIC_018.jpg,SPT_CIC_018.jpg,Jacket,First Class,Francis,12/15/25,Security jacket,polyester; navy; security; costume; jacket; bomber,,,,,,,,,,,
+SPT_CIC_019,objects/SPT_CIC_019.jpg,SPT_CIC_019.jpg,Jacket,,Francis,12/15/25,Black athletic jacket,black; elastic; tight; athletic,,,,,,,,,,,
+SPT_CIC_020,objects/SPT_CIC_020.jpg,SPT_CIC_020.jpg,Jacket,Rocky Horror Picture Show,Francis,12/15/25,Gold and black sequin tailcoat,costume; sequin; gold; black,,,,,,,,,,,
+SPT_CIC_021,objects/SPT_CIC_021.jpg,SPT_CIC_021.jpg,Coat,Cascade,Francis,12/15/25,Grey herringbone wool coat,wool; grey; herringbone; coat;,,,,,,,,,,,
+SPT_CIC_022,objects/SPT_CIC_022.jpg,SPT_CIC_022.jpg,Jacket,,Francis,12/15/25,Khaki military jacket,khaki; military; blazer; gold ,,,,,,,,,,,
+SPT_CIC_023,objects/SPT_CIC_023.jpg,SPT_CIC_023.jpg,Coat,,Francis,12/15/25,Leather and quilted coat,polyester; leather imitation; costume; medieval,,,,,,,,,,,
+SPT_CIC_024,objects/SPT_CIC_024.jpg,SPT_CIC_024.jpg,Coat,,Lee,12/15/25,Green smock,floor length; button up; long sleeved,,,,,,,,,,,
+SPT_CIC_025,objects/SPT_CIC_025.jpg,SPT_CIC_025.jpg,Jacket,Anterlude,Francis,12/15/25,Patterned sequin jacket,blue; gold; silver; black; bronze; jacket; sequin,,,,,,,,,,,
+SPT_CIC_026,objects/SPT_CIC_026.jpg,SPT_CIC_026.jpg,Jacket,StreetWear,Francis,12/15/25,Silver jacket,Silver; textured; jacket,,,,,,,,,,,
+SPT_CIC_027,objects/SPT_CIC_027.jpg,SPT_CIC_027.jpg,Coat,,Lee Cheeseman,12/15/25,blue/grey cropped military coat,military; army; collared,,,,,,,,,,,
+SPT_CIC_028,objects/SPT_CIC_028.jpg,SPT_CIC_028.jpg,jacket,Penguin,Francis,12/15/25,Purple cropped jacket,purple; yellow; brown; cropped; peplum; jacket,,,,,,,,,,,
+SPT_CIC_029,objects/SPT_CIC_029.jpg,SPT_CIC_029.jpg,jacket,,Francis,12/15/25,Black fur trimmed jacket,black; white fur; trim; cropped; capelet,,,,,,,,,,,
+SPT_CIC_030,objects/SPT_CIC_030.jpg,SPT_CIC_030.jpg,jacket,,Francis,12/15/25,grey jacket,grey; herringbone; trench,,,,,,,,,,,
+SPT_CIC_031,objects/SPT_CIC_031.jpg,SPT_CIC_031.jpg,jacket,tan flay,Francis,12/15/25,red velvet jacket,red; velvet; jacket; pockets,,,,,,,,,,,
+SPT_CIC_032,objects/SPT_CIC_032.jpg,SPT_CIC_032.jpg,Coat,marc new york,Francis,12/15/25,Black wool coat,black; wool; coat; double brested,,,,,,,,,,,
+SPT_CIC_033,objects/SPT_CIC_033.jpg,SPT_CIC_033.jpg,Coat,London Fog,Francis,12/15/25,Grey trench coat,grey; double breasted; trench coat; waxed,,,,,,,,,,,
+SPT_CIC_034,objects/SPT_CIC_034.jpg,SPT_CIC_034.jpg,Jacket,Bear Dance,Francis,12/15/25,Blue western jacket,sparkle; fringe; western; blue; pink; jacket,,,,,,,,,,,
+SPT_CIC_035,objects/SPT_CIC_035.jpg,SPT_CIC_035.jpg,Jacket,Lauren,Francis,12/16/25,Purple flannel jacket,patterned; plaid; green; brown; zipup,,,,,,,,,,,
+SPT_CIC_036,objects/SPT_CIC_036.jpg,SPT_CIC_036.jpg,jacket,,Francis,12/16/25,Khaki military jacket,,,,,,,,,,,,
+SPT_CIC_037,objects/SPT_CIC_037.jpg,SPT_CIC_037.jpg,Jacket,Pacific North Costumes,Francis,12/16/25,Khaki military jacket,patches; blue; silver,,,,,,,,,,,
+SPT_CIC_038,objects/SPT_CIC_038.jpg,SPT_CIC_038.jpg,Jacket,,Francis,12/16/25,Khaki military jacket,,,,,,,,,,,,
+SPT_CIC_039,objects/SPT_CIC_039.jpg,SPT_CIC_039.jpg,Jacket,,Francis,12/16/25,Leather jacket,biker; motorcycle; pleather; black,,,,,,,,,,,
+SPT_CIC_040,objects/SPT_CIC_040.jpg,SPT_CIC_040.jpg,Coat,Harve Benard,Lee,12/16/25,Red cropped coat,red; collared; vintage; long sleeved,,,,,,,,,,,
+SPT_CIC_041,objects/SPT_CIC_041.jpg,SPT_CIC_041.jpg,Jacket,DM New York,Francis,12/16/25,Black long jacket,ruffle; coat; jacket,,,,,,,,,,,
+SPT_CIC_042,objects/SPT_CIC_042.jpg,SPT_CIC_042.jpg,Jacket,Jones New York,Francis,12/16/25,Green jacket,bronze buttons,,,,,,,,,,,
+SPT_CIC_043,objects/SPT_CIC_043.jpg,SPT_CIC_043.jpg,Jacket,Talbots,Francis,12/16/25,Green corderoy jacket,olive; coat; stretch,,,,,,,,,,,
+SPT_CIC_044,objects/SPT_CIC_044.jpg,SPT_CIC_044.jpg,coat,nasty gal,Lee,12/16/25,Red leather trench coat,red; collared; leather; floor length; trench coat,,,,,,,,,,,
+SPT_CIC_045,objects/SPT_CIC_045.jpg,SPT_CIC_045.jpg,jacket,Lock & love,Lee,12/16/25,Maroon leather jacket,maroon; red; leather; biker; zipper,,,,,,,,,,,
+SPT_CIC_046,objects/SPT_CIC_046.jpg,SPT_CIC_046.jpg,Coat,Platinum,Lee,12/16/25,Red button-up coat,collared; long sleeved; red; midi,,,,,,,,,,,
+SPT_CIC_047,objects/SPT_CIC_047.jpg,SPT_CIC_047.jpg,Jacket,Requirements,Lee,12/16/25,Brown patterned zip-up,zip-up; mafia; athletic; patterned,,,,,,,,,,,
+SPT_CIC_048,objects/SPT_CIC_048.jpg,SPT_CIC_048.jpg,Cloak,Alexanders Costumes,Lee,12/16/25,Black cloak,cloak; sleeveless,,,,,,,,,,,
+SPT_CIC_049,objects/SPT_CIC_049.jpg,SPT_CIC_049.jpg,coat,Evolution not revolution,Lee,12/16/25,Chetah print coat,maxi; patterned; chetah print; animal print; fuzzy; collared,,,,,,,,,,,
+SPT_CIC_050,objects/SPT_CIC_050.jpg,SPT_CIC_050.jpg,coat,,Lee,12/16/25,Black fur coat,fur; coat; floor length; black,,,,,,,,,,,
+SPT_CISK_021,objects/SPT_CISK_021.jpg,SPT_CISK_021.jpg,Skirt,The Pyramid Collection,Lee,12/15/25,Brown crinkled midi skirt,Pirate,,,,,,,,,,,
+SPT_CISK_022,objects/SPT_CISK_022.jpg,SPT_CISK_022.jpg,Skirt,Belle Poque,Francis,12/15/25,Black lace skirt,Tiered; high low; lace; victorian; skirt,,,,,,,,,,,
+SPT_CISK_023,objects/SPT_CISK_023.jpg,SPT_CISK_023.jpg,Skirt,Frontier Classics,Lee,12/15/25,Black maxi skirt,western; cowgirl,,,,,,,,,,,
+SPT_CISK_024,objects/SPT_CISK_024.jpg,SPT_CISK_024.jpg,Skirt,,Francis,12/15/25,Grey maxi skirt,grey; maxi; lace trim; skirt,,,,,,,,,,,
+SPT_CISK_025,objects/SPT_CISK_025.jpg,SPT_CISK_025.jpg,Skirt,Occasions,Francis,12/15/25,Green maxi skirt,green; maxi; gauzey; ephemeral; skirt,,,,,,,,,,,
+SPT_CISK_026,objects/SPT_CISK_026.jpg,SPT_CISK_026.jpg,Skirt,Just Cruising,Francis,12/15/25,Green maxi skirt,floral; patterned; embroidered; maxi,,,,,,,,,,,
+SPT_CISK_027,objects/SPT_CISK_027.jpg,SPT_CISK_027.jpg,Skirt,,Francis,12/15/25,Pink mini skirt,pink; mini; skirt; elastic waist,,,,,,,,,,,
+SPT_CISK_028,objects/SPT_CISK_028.jpg,SPT_CISK_028.jpg,Skirt,Classic Elements,Francis ,12/16/25,Denim midi skirt,denim; jean; midi; elastic; blue; skirt,,,,,,,,,,,
+SPT_CISK_029,objects/SPT_CISK_029.jpg,SPT_CISK_029.jpg,Skirt,NY & Co,Lee,12/16/25,Gray midi skirt,gray; grey; heather; office; midi,,,,,,,,,,,
+SPT_CISK_030,objects/SPT_CISK_030.jpg,SPT_CISK_030.jpg,Skirt,H&M,Lee,12/16/25,Black midi skirt,plain; black,,,,,,,,,,,
+SPT_CISK_031,objects/SPT_CISK_031.jpg,SPT_CISK_031.jpg,skirt,,Lee,12/16/25,black floor length skirt,black; floor length; silk,,,,,,,,,,,
+SPT_CIO_068,objects/SPT_CIO_068.jpg,SPT_CIO_068.jpg,Apron,Big Accessories,Lee,12/15/25,"Black bedazled ""drinks well with others"" apron",black; apron; bedazled; wine mom,,,,,,,,,,,
+SPT_CIO_069,objects/SPT_CIO_069.jpg,SPT_CIO_069.jpg,Apron,domestic Uniform Rental,Lee,12/15/25,Plain white apron,white; apron; stained,,,,,,,,,,,
+SPT_CIO_070,objects/SPT_CIO_070.jpg,SPT_CIO_070.jpg,Apron,Ultra Club,Lee,12/15/25,Plain navy apron,navy; apron; plain; kitchen; chef,,,,,,,,,,,
+SPT_CIO_071,objects/SPT_CIO_071.jpg,SPT_CIO_071.jpg,Robe,Graduate Pro,Francis,12/15/25,Navy graduation robe (2),robe; navy; graduation; college; polyester,,,,,,,,,,,
+SPT_CIO_072,objects/SPT_CIO_072.jpg,SPT_CIO_072.jpg,Robe,Dialogue,Francis,12/15/25,White robe,ruffle collar;,,,,,,,,,,,
+SPT_CIO_073,objects/SPT_CIO_073.jpg,SPT_CIO_073.jpg,Fabric,,Francis,12/15/25,White lace fabric,floral; lace; fabric; cloth,,,,,,,,,,,
+SPT_CIO_074,objects/SPT_CIO_074.jpg,SPT_CIO_074.jpg,Cape,,Lee,12/15/25,Red cape,plain; heavy; winter,,,,,,,,,,,
+SPT_CIO_075,objects/SPT_CIO_075.jpg,SPT_CIO_075.jpg,Hood,,Lee,12/15/25,Black hood,fantasy; medieval; ren faire; pointed,,,,,,,,,,,
+SPT_CIO_076,objects/SPT_CIO_076.jpg,SPT_CIO_076.jpg,Scarf,,Francis,12/15/25,Red polka dot scarf,scarf; fabric; red; white; polka dot; ombre,,,,,,,,,,,
+SPT_CIO_077,objects/SPT_CIO_077.jpg,SPT_CIO_077.jpg,Fabric,,Francis,12/15/25,Black net fabric,fabric; net; fishnet; black,,,,,,,,,,,
+SPT_CIO_078,objects/SPT_CIO_078.jpg,SPT_CIO_078.jpg,Poncho,JM Collections,Lee,12/15/25,Black poncho,fur; winter; snaps,,,,,,,,,,,
+SPT_CIO_079,objects/SPT_CIO_079.jpg,SPT_CIO_079.jpg,Cardigan,,Lee,12/15/25,Red cardigan,knit; wool; vintage; winter; button-up; long sleeved,,,,,,,,,,,
+SPT_CIO_080,objects/SPT_CIO_080.jpg,SPT_CIO_080.jpg,Tie,VanHeusen-Studio,Francis,12/15/25,Blue and lime tie,blue; lime; black; patterned; tie,,,,,,,,,,,
+SPT_CIO_081,objects/SPT_CIO_081.jpg,SPT_CIO_081.jpg,Tie,,Francis,12/15/25,Blue and red striped tie,blue; red; tie; stripe,,,,,,,,,,,
+SPT_CIO_082,objects/SPT_CIO_082.jpg,SPT_CIO_082.jpg,Crinoline,,Francis,12/15/25,Crinoline (4),hoop skirt; crinoline; white,,,,,,,,,,,
+SPT_CIO_083,objects/SPT_CIO_083.jpg,SPT_CIO_083.jpg,Peplos,,Lee,12/15/25,Green peplos,Greek; sleeveless; maxi,,,,,,,,,,,
+SPT_CIO_084,objects/SPT_CIO_084.jpg,SPT_CIO_084.jpg,Chiton,,Lee,12/15/25,navy chiton,Greek; sleeveless; maxi,,,,,,,,,,,
+SPT_CIO_085,objects/SPT_CIO_085.jpg,SPT_CIO_085.jpg,Bralette,Youmita,Francis,12/15/25,Red lace bralette (2),bralette; lace; bra; underwear;,,,,,,,,,,,
+SPT_CIO_086,objects/SPT_CIO_086.jpg,SPT_CIO_086.jpg,Apron,,Lee,12/15/25,Plain black apron,Apron; smock; plain,,,,,,,,,,,
+SPT_CIO_087,objects/SPT_CIO_087.jpg,SPT_CIO_087.jpg,Chiton,,Lee,12/15/25,Brown and black chevron chiton,patterned; fringed; greek; sleeveless,,,,,,,,,,,
+SPT_CIO_088,objects/SPT_CIO_088.jpg,SPT_CIO_088.jpg,Robe,Gilligan&O'Malley,Francis,12/15/25,Red robe,jersey; silk; robe; sleepwear,,,,,,,,,,,
+SPT_CIO_089,objects/SPT_CIO_089.jpg,SPT_CIO_089.jpg,Robe,Christian Dior,Francis,12/16/25,Red robe,red; silk; checkered; patterned; tie; sleepwear,,,,,,,,,,,
+SPT_CIO_090,objects/SPT_CIO_090.jpg,SPT_CIO_090.jpg,Chiton,,Francis,12/16/25,Blood stained peplos,greek; sleeveless; maxi; blood; ,,,,,,,,,,,
+SPT_CIO_091,objects/SPT_CIO_091.jpg,SPT_CIO_091.jpg,Cumberbund,,Francis,12/16/25,Black cumberbund (4),formal; tuxedo,,,,,,,,,,,
+SPT_CIO_092,objects/SPT_CIO_092.jpg,SPT_CIO_092.jpg,Cumberbund,,Francis,12/16/25,Blue cumberbund,formal; tuxedo,,,,,,,,,,,
+SPT_CIO_093,objects/SPT_CIO_093.jpg,SPT_CIO_093.jpg,Chiton,,Lee,12/16/25,Olive see-through chiton,chiton; greek; see-through,,,,,,,,,,,
+SPT_CIO_094,objects/SPT_CIO_094.jpg,SPT_CIO_094.jpg,Chiton,,Francis,12/16/25,White chiton,greek; ,,,,,,,,,,,
+SPT_CIO_095,objects/SPT_CIO_095.jpg,SPT_CIO_095.jpg,cape,,Lee,12/16/25,silver brocade cape,cape; silver; brocade,,,,,,,,,,,
